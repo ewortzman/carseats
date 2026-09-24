@@ -2,6 +2,7 @@
 # Evenflo Revolve 360 Slim 2-in-1 Rotational Convertible Car Seat
 
 **Price:** $291.99 (reg. $364.99) · **Target TCIN** 92391009 · [Back to summary](README.md)
+**Target product page:** [https://www.target.com/p/evenflo-revolve-360-slim-2-in-1-rotational-convertible-car-seat-canton-black/-/A-92391009](https://www.target.com/p/evenflo-revolve-360-slim-2-in-1-rotational-convertible-car-seat-canton-black/-/A-92391009)
 
 > ## ⚠️ Do not buy — active federal compliance investigation and an open recall
 >

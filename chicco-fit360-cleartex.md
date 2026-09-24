@@ -1,6 +1,7 @@
 # Chicco Fit360 ClearTex Rotating Convertible Car Seat
 
 **Price:** $351.99 (reg. $419.99) · **Target TCIN** 94371984 · [Back to summary](README.md)
+**Target product page:** [https://www.target.com/p/chicco-fit360-cleartex-rotating-convertible-car-seat-obsidian/-/A-94371984](https://www.target.com/p/chicco-fit360-cleartex-rotating-convertible-car-seat-obsidian/-/A-94371984)
 
 ## Verdict
 

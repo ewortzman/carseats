@@ -1,6 +1,7 @@
 # Graco EasyTurn 360 Rotating Convertible Car Seat
 
 **Price:** $279.99 (reg. $349.99) · **Target TCIN** 92695220 · [Back to summary](README.md)
+**Target product page:** [https://www.target.com/p/graco-easyturn-2-in-1-convertible-car-seat-cyran/-/A-92695220](https://www.target.com/p/graco-easyturn-2-in-1-convertible-car-seat-cyran/-/A-92695220)
 
 ## Verdict
 

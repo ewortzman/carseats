@@ -1,6 +1,7 @@
 # Graco 4Ever DLX Slim 4-in-1 Convertible Car Seat — Thompson
 
 **Price:** $295.99 (reg. $369.99) · **Target TCIN** 95018358 · [Back to summary](README.md)
+**Target product page:** [https://www.target.com/p/graco-4ever-dlx-slim-4-in-1-convertible-car-seat-thompson/-/A-95018358](https://www.target.com/p/graco-4ever-dlx-slim-4-in-1-convertible-car-seat-thompson/-/A-95018358)
 
 ## Verdict
 

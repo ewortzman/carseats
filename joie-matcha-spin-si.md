@@ -1,6 +1,7 @@
 # Joie Matcha Spin SI Rotating 3-in-1 Convertible Car Seat
 
 **Price:** $359.99 (reg. $399.99) · **Target TCIN** 94808520 · [Back to summary](README.md)
+**Target product page:** [https://www.target.com/p/joie-matcha-spin-si-3-in-1-convertible-car-seat-mocha/-/A-94808520](https://www.target.com/p/joie-matcha-spin-si-3-in-1-convertible-car-seat-mocha/-/A-94808520)
 
 ## Verdict
 

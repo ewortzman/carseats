@@ -1,6 +1,7 @@
 # Britax Galaxy 360 Slim Rotating Convertible Car Seat with SwivelSmooth
 
 **Price:** $343.99 · **Target TCIN** 95276846 / 94815032 / 95057475 · [Back to summary](README.md)
+**Target product page:** [https://www.target.com/p/britax-galaxy-360-slim-rotating-convertible-car-seat-with-swivel-smooth/-/A-95276846](https://www.target.com/p/britax-galaxy-360-slim-rotating-convertible-car-seat-with-swivel-smooth/-/A-95276846)
 
 ## Verdict
 

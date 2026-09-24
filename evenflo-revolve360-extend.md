@@ -2,6 +2,7 @@
 # Evenflo Revolve 360 Extend All-in-One Rotating Convertible Car Seat
 
 **Price:** $349.99 (reg. $351.99) · **Target TCIN** 92391010 · [Back to summary](README.md)
+**Target product page:** [https://www.target.com/p/evenflo-revolve-360-extend-all-in-one-rotating-convertible-car-seat-revere-gray/-/A-92391010](https://www.target.com/p/evenflo-revolve-360-extend-all-in-one-rotating-convertible-car-seat-revere-gray/-/A-92391010)
 
 > ## ⚠️ Do not buy — covered by an active federal compliance investigation
 >

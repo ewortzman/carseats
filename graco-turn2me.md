@@ -1,6 +1,7 @@
 # Graco Turn2Me 3-in-1 Rotating Convertible Car Seat
 
 **Price:** $319.99 (reg. $399.99) · **Target TCIN** 86993021 / 88940077 · [Back to summary](README.md)
+**Target product page:** [https://www.target.com/p/graco-turn2me-3-in-1-rotating-convertible-car-seat-manchester/-/A-86993021](https://www.target.com/p/graco-turn2me-3-in-1-rotating-convertible-car-seat-manchester/-/A-86993021)
 
 ## Verdict
 
