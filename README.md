@@ -56,7 +56,12 @@ Spring-loaded lock-off doors plus a **SmartSecure red-to-green belt-tension indi
 *Rule out if:* you need a newborn seat — **14 lb minimum** — or one seat to cover the booster years.
 
 ### 🏷 Tightest budget — [Safety 1st Grow and Go](safety1st-grow-and-go.md) · $127.99
-Zero complaints across 2,930 ratings. But NHTSA rates it **2/5 rear-facing overall with 1/5 labels and 1/5 vehicle-installation features** — the weakest profile here. It is a safe seat that is easy to install wrong. For $22 more, [Graco TriRide](graco-triride-3in1.md) is rated **4/5 in all three modes with 5/5 instructions** (though its harness is hard to tighten). Either way, **book a free CPST inspection.**
+Zero complaints across 2,930 ratings. But NHTSA rates it **2/5 rear-facing overall with 1/5 labels and 1/5 vehicle-installation features** — the weakest profile here. It is a safe seat that is easy to install wrong. For $22 more, [Graco TriRide](graco-triride-3in1.md) is rated **4/5 in all three modes with 5/5 instructions** and CSFTL likes it (though its harness is hard to tighten). Either way, **book a free CPST inspection.**
+
+### 🔍 Worth a second look — [Safety 1st EverSlim](safety1st-everslim.md) · $183.99
+NHTSA rates this platform **2/5 rear-facing**, which is why it sits mid-table. But **CSFTL calls it "a winner of a seat!"** — 17" at the widest point, **22 lb harnessed and 6 lb backless**, four modes, and it installs "without too much fuss." They were "pleasantly surprised."
+
+The two assessments disagree because they measure different things: NHTSA scored the install *features* and labelling, CSFTL actually installed it and fit-tested it. When a federal rating and the people who take seats apart for a living diverge this far, it is worth knowing both — and this is a better endorsement than the scorecard total suggests.
 
 ### 🚫 Do not buy
 | Seat | Why |
@@ -69,6 +74,8 @@ Zero complaints across 2,930 ratings. But NHTSA rates it **2/5 rear-facing overa
 | [Peg Perego Primo Viaggio All-in-One](pegperego-primo-viaggio-all-in-one.md) · in cart | All three complaints are harness/buckle, incl. a clip breaking in half and a **factory-misthreaded harness**; 1 review |
 | [Disney Baby Turn and Go 360](disney-turn-and-go-360.md) · $399.99 | $70 over the identical Safety 1st on a platform owners rate 3.74★; worst value here |
 | [Maxi-Cosi Romi](maxicosi-romi.md) · $149.99 | Forward-facing caps at **40 lb / 43"** — you replace it around age 4 |
+| [Safety 1st Turn and Go 360](safety1st-turn-and-go-360.md) / [DLX](safety1st-turn-and-go-360-dlx.md) / [ST](safety1st-turn-and-go-360-st.md) / [Disney](disney-turn-and-go-360.md) · $329–399.99 | **CSFTL unfavourable** — "heavy, awkward to install, short-lived, and on the expensive side"; **15" top harness slot** so outgrown around age 4; tippy in booster; both federal complaints are the seat-to-base cable failing |
+| [Safety 1st Trimate](safety1st-trimate.md) · $149.99 | **CSFTL unfavourable** — "doesn't do anything particularly well," "hard to install correctly," persistent side-to-side tipping. Matches NHTSA's 2/5 rear-facing and 1/5 install features |
 
 ### ⏸ Buy the cheaper twin instead
 All four Disney Baby seats are **rebadged Safety 1st** with licensed fabric at a $22–76 premium and identical hardware: [Disney Grow and Go](disney-grow-and-go.md) (+$22), [Disney Ellaris](disney-ellaris.md) (+$30), [Disney EverSlim](disney-everslim.md) (+$76), [Disney Turn and Go 360](disney-turn-and-go-360.md) (+$70). Same logic for [Britax Poplar S](britax-poplar-s.md) (+$12 over [Poplar](britax-poplar.md), trim only) and [Graco 4Ever DLX Slim](graco-4ever-dlx-slim.md) (+$40 over [4Ever DLX](graco-4ever-dlx.md), and the non-Slim is the variant NHTSA rated).
