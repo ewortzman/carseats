@@ -72,6 +72,25 @@ The tension is worth stating plainly: a seat can be hard to install correctly (N
 
 4.13 is on the low side: [Graco 4Ever DLX](graco-4ever-dlx.md) is 4.78 across 6,173, [Chicco Fit3x](chicco-fit3x.md) 4.62, [Joie Saffron SI](joie-saffron-si.md) 4.49. Only the two Britax [One4Life](britax-one4life.md) listings and [Joie Chili Spin SI](joie-chili-spin-si.md) rate lower.
 
+## Consumer Reports
+
+**Consumer Reports** (paid subscriber data, Sept 2026):
+
+| CR metric | Result |
+|---|---|
+| **Harnessed crash protection** | 🟡 **Better** |
+| Overall score | **54** / 100 |
+| Ease of use | 3/5 |
+| Rear-facing fit to vehicle | 2/5 |
+| Forward-facing fit to vehicle | 4/5 |
+| Booster fit | 3/5 |
+| Good small-car fit | No |
+| Load leg | No |
+| CR width / weight | 19" / 14 lb |
+| **CR recommended** | — no |
+
+Crash protection is rated on a **simulated 35-mph frontal crash** run by an independent lab, and the tier measures **margin above the federal FMVSS 213 floor** — every seat sold legally meets that floor. `n/a` means the mode does not apply. CR overall scores are relative within seat type and the category weightings are unpublished. Full methodology and the cross-source comparison: [Consumer Reports section in the summary](README.md#consumer-reports--crash-protection).
+
 ## Pros
 
 - **$127.99** — cheapest seat in this comparison

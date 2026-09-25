@@ -71,6 +71,25 @@ Clean. The Safety 1st original is also clean across 2,930 ratings — a genuinel
 
 Target does not publish attribute subscores on this listing. 3.96 across a thousand owners indicates broad middling satisfaction.
 
+## Consumer Reports
+
+**Consumer Reports** (paid subscriber data, Sept 2026) — figures inherited from the **[Safety 1st Grow and Go](safety1st-grow-and-go.md)**, the same platform:
+
+| CR metric | Result |
+|---|---|
+| **Harnessed crash protection** | 🟡 **Better** |
+| Overall score | **54** / 100 |
+| Ease of use | 3/5 |
+| Rear-facing fit to vehicle | 2/5 |
+| Forward-facing fit to vehicle | 4/5 |
+| Booster fit | 3/5 |
+| Good small-car fit | No |
+| Load leg | No |
+| CR width / weight | 19" / 14 lb |
+| **CR recommended** | — no |
+
+Crash protection is rated on a **simulated 35-mph frontal crash** run by an independent lab, and the tier measures **margin above the federal FMVSS 213 floor** — every seat sold legally meets that floor. `n/a` means the mode does not apply. CR overall scores are relative within seat type and the category weightings are unpublished. Full methodology and the cross-source comparison: [Consumer Reports section in the summary](README.md#consumer-reports--crash-protection).
+
 ## Pros
 
 - Three modes, 5 lb to 100 lb

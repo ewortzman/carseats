@@ -60,6 +60,25 @@ Same pattern as the [2-in-1](graco-extend2fit-2in1.md): the forward-facing harne
 
 Well regarded for the extended rear-facing runway and the booster mode the 2-in-1 lacks. Same family criticisms: forward-facing harness tightening, headrest foam exposure, and head-slump geometry.
 
+## Consumer Reports
+
+**Consumer Reports** (paid subscriber data, Sept 2026):
+
+| CR metric | Result |
+|---|---|
+| **Harnessed crash protection** | 🟢 **Best** |
+| Overall score | **72** / 100 |
+| Ease of use | 4/5 |
+| Rear-facing fit to vehicle | 4/5 |
+| Forward-facing fit to vehicle | 4/5 |
+| Booster fit | 5/5 |
+| Good small-car fit | Yes |
+| Load leg | No |
+| CR width / weight | 19" / 22 lb |
+| **CR recommended** | ✅ yes |
+
+Crash protection is rated on a **simulated 35-mph frontal crash** run by an independent lab, and the tier measures **margin above the federal FMVSS 213 floor** — every seat sold legally meets that floor. `n/a` means the mode does not apply. CR overall scores are relative within seat type and the category weightings are unpublished. Full methodology and the cross-source comparison: [Consumer Reports section in the summary](README.md#consumer-reports--crash-protection).
+
 ## Pros
 
 - **Rear-facing to 50 lb** with extending leg-room panel

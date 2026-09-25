@@ -124,7 +124,45 @@ Manufacturer FAQ pages were not reachable from this environment (chiccousa.com F
 
 **Age caps can be shorter than expiry** and override it: [Chicco Fit360](chicco-fit360-cleartex.md)/[Zip](chicco-fit360-zip.md) 6 years, [Evenflo Revolve360 Slim](evenflo-revolve360-slim.md) 6 years, [Britax Galaxy 360](britax-galaxy-360-slim.md) 6 years. Cost-per-year uses the shorter figure.
 
-### 6. Regulatory context
+### 6. Consumer Reports (paid subscriber data)
+
+Obtained **2026-09-25** from a paid CR subscription. CR rates **41 harnessed car seats**; 22 of them are on this list.
+
+**Source files, kept local and deliberately not committed** (paid subscriber content — see `.gitignore`):
+- `Car Seat Ratings & Reviews - Consumer Reports.pdf`
+- `Car Seat Ratings & Reviews - Consumer Reports.htm` (+ `_files/` assets)
+
+**Extraction note.** `pypdf` text extraction on the PDF returned only the URL header and 34 CSS-truncated category labels — no brand names, no scores. That was an extraction failure, not an empty file: the PDF renders the full grid correctly, with the table text stored as vector outlines rather than encoded text. Rendering page 1 with `pypdfium2` confirmed the content is there. The machine-readable data was instead recovered from the `.htm` export, which embeds the grid as JSON:
+
+```python
+# locate the products dict inside the saved HTML and brace-match it
+import re, json
+h = open("Car Seat Ratings & Reviews - Consumer Reports.htm", encoding="utf-8", errors="replace").read()
+m = re.search(r'"data":\{"(\d{5,})":\{"index"', h)   # 41 products keyed by CR product id
+# ... brace-match from m.start() to get valid JSON, then json.loads()
+# each product: brandName, modelName, overallDisplayScore, price, expertRatings{isRecommended,...}
+# and attrs[] of {attributeId, attributeTypeName, name, value}
+```
+
+Both sources agree on every value spot-checked against the rendered PDF.
+
+**What CR measures.** Three categories feed one overall score:
+
+| Category | Method |
+|---|---|
+| **Harnessed crash protection** | Independent contracted lab, **simulated 35-mph frontal crashes**. Rated **Basic / Better / Best** — the tier is *margin above the federal floor*, not pass/fail |
+| **Fit to Vehicle** | Certified CPSTs install each seat in every unique rear-seat position of **five vehicle types**, using both LATCH and belt. Scored separately rear- and forward-facing |
+| **Ease of Use** | Instruction clarity, installation, harness adjustment, seat weight |
+
+Also captured per seat: booster fit, good-small-car fit, load leg, overall width, seat weight, LATCH connector type, recline indicator type and position, harness adjustment type, flame-retardant-free option, Spanish-language instructions, and per-mode weight/height ranges.
+
+Overall scores are **relative within seat type**, and **CR does not publish the category weightings** — you cannot reconstruct why an 84 beats a 75.
+
+**Why the data is credible.** CR is a nonprofit that takes **no advertising**, **buys every test sample at retail** ("CR staff shoppers buy every product we use as a test sample from retail stores"), and **prohibits companies from using its ratings in advertising** — so a favourable score cannot be monetised by the manufacturer. That is a materially cleaner incentive structure than any other source used here, including CSFTL (which earns Amazon affiliate revenue).
+
+**Limits.** One test sample per model. No published weightings. **29 of the 51 seats on this list are not rated at all** — including [Chicco Fit3x](chicco-fit3x.md), [Graco SlimFit3 LX](graco-slimfit3-lx.md), [Britax Galaxy 360](britax-galaxy-360-slim.md), [Britax One4Life](britax-one4life.md), [Joie Matcha](joie-matcha-spin-si.md) and [Pepper Spin](joie-pepper-spin-si.md), and every [Revolve360 Extend](evenflo-revolve360-extend.md) variant. And crucially, **a one-shot crash test on a new seat cannot detect in-service component degradation** — the [Chicco Fit360](chicco-fit360-cleartex.md) rates crash **Best** with CR's highest overall score while carrying 26 federal complaints about its chest clip coming apart after months of use. CR and the complaint record measure different failure modes; you need both.
+
+### 7. Regulatory context
 
 - **FMVSS 213** — the federal child restraint standard (frontal crash, labelling, installation means, structural integrity).
 - **FMVSS 213a** — side-impact standard, mandatory for seats manufactured after **June 30, 2025**. Covers children to 40 lb / 43" in a 5-point harness. Britax discloses this scope limit explicitly; most brands do not.
@@ -134,7 +172,7 @@ Manufacturer FAQ pages were not reachable from this environment (chiccousa.com F
 
 ## What was not available
 
-- **Consumer Reports crash-test ratings** — paywalled. CR runs a more severe crash protocol and rates seats independently; worth a month's subscription before a $300+ purchase.
+- ~~Consumer Reports crash-test ratings~~ — **now obtained.** See the new section below.
 - **IIHS booster ratings** — IIHS rates boosters for belt fit but does not rate harnessed convertibles.
 - **NHTSA ease-of-use for 35 of the 51 seats** — does not exist.
 - **Independent expert teardowns for 31 of 51 seats.**
@@ -204,7 +242,8 @@ curl -s -A "Mozilla/5.0" \
 4. **A good NHTSA rating does not predict owner satisfaction, and vice versa.** [Joie Chili Spin SI](joie-chili-spin-si.md) has the best rotating-seat federal rating and a 4.08★ average. [Graco TriRide](graco-triride-3in1.md) scores 4/5 in all three modes and 66% would recommend. NHTSA measures documentation and hardware, not comfort or harness pull force.
 5. **Manufacture date matters more than model name.** 213a applies by build date; recall ranges are defined by build date.
 6. **Register whatever you buy.** Two of the recalls above were themselves for missing registration cards.
-7. **A free CPST install check beats every spec in these notes.** Most installs that fail in the field fail because of installation, not design — and NHTSA scored install features 1/5 or 2/5 on half the rated seats here.
+7. **Crash protection and ease of use are unrelated measurements.** The Cybex Sirona S scored **5/5 rear-facing** on NHTSA's ease-of-use scale — the best rotating result in the federal dataset — and lands at **53 overall with only Better** crash protection at CR. Conversely [Graco 4Ever DLX](graco-4ever-dlx.md) rates crash **Best** on a CR overall of just 72. Do not read one as a proxy for the other.
+8. **A free CPST install check beats every spec in these notes.** Most installs that fail in the field fail because of installation, not design — and NHTSA scored install features 1/5 or 2/5 on half the rated seats here.
 
 ---
 

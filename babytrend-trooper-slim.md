@@ -77,6 +77,25 @@ The gap between 4.76★ from owners and 3/5 from NHTSA is the familiar pattern: 
 
 **CSFTL: favourable.** They highlight how unusual it is to get a light, slim seat that fits preemies through a typical 7-year-old for under $100, calling it **"an excellent option for many situations, especially tight 3 across setups"** and suggesting it would suit air travel too. Their measurements: **17.5" at the widest point** (with cupholder attached, at the shoulders) and **10 lb** — by far the lightest seat in this comparison. Drawbacks: required harness covers poked their younger testers' necks; **the seat tends to tip toward the buckle in seat-belt installs because it is so light**; harness-slot and crotch-buckle rules are complicated enough to require the manual; the continuous harness complicates evening out the low-birthweight routing; and the manual gives three seemingly conflicting statements about seat belt vs. LATCH installation.
 
+## Consumer Reports
+
+**Consumer Reports** (paid subscriber data, Sept 2026):
+
+| CR metric | Result |
+|---|---|
+| **Harnessed crash protection** | 🔴 **Basic** |
+| Overall score | **57** / 100 |
+| Ease of use | 4/5 |
+| Rear-facing fit to vehicle | 3/5 |
+| Forward-facing fit to vehicle | 4/5 |
+| Booster fit | n/a |
+| Good small-car fit | No |
+| Load leg | No |
+| CR width / weight | 18" / 10 lb |
+| **CR recommended** | — no |
+
+Crash protection is rated on a **simulated 35-mph frontal crash** run by an independent lab, and the tier measures **margin above the federal FMVSS 213 floor** — every seat sold legally meets that floor. `n/a` means the mode does not apply. CR overall scores are relative within seat type and the category weightings are unpublished. Full methodology and the cross-source comparison: [Consumer Reports section in the summary](README.md#consumer-reports--crash-protection).
+
 ## Pros
 
 - **Zero NHTSA complaints, recalls, investigations**

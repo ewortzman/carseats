@@ -74,6 +74,25 @@ The Safety 1st original sits at 4.20★ from 145 ratings — still below every G
 
 **CSFTL reviewed the identical Safety 1st [EverSlim / SlimRide](safety1st-everslim.md) favourably — "a winner of a seat!"** Their measurements: 17" at the widest point, 22 lb harnessed / 6 lb backless. Well suited to three-across. That verdict applies to this seat too — you are paying $76 for the Disney print, not for different hardware.
 
+## Consumer Reports
+
+**Consumer Reports** (paid subscriber data, Sept 2026) — figures inherited from the **[Safety 1st EverSlim / SlimRide](safety1st-everslim.md)**, the same platform:
+
+| CR metric | Result |
+|---|---|
+| **Harnessed crash protection** | 🟢 **Best** |
+| Overall score | **62** / 100 |
+| Ease of use | 3/5 |
+| Rear-facing fit to vehicle | 3/5 |
+| Forward-facing fit to vehicle | 4/5 |
+| Booster fit | 4/5 |
+| Good small-car fit | No |
+| Load leg | No |
+| CR width / weight | 19" / 23 lb |
+| **CR recommended** | — no |
+
+Crash protection is rated on a **simulated 35-mph frontal crash** run by an independent lab, and the tier measures **margin above the federal FMVSS 213 floor** — every seat sold legally meets that floor. `n/a` means the mode does not apply. CR overall scores are relative within seat type and the category weightings are unpublished. Full methodology and the cross-source comparison: [Consumer Reports section in the summary](README.md#consumer-reports--crash-protection).
+
 ## Pros
 
 - Four modes, 5 lb to 100 lb

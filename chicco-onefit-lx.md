@@ -77,6 +77,25 @@ Complaints mirror the NHTSA themes: exposed/cracking headrest foam, cover remova
 
 **CSFTL: favourable.** The seat "impressed us in many ways," accommodating children from newborn through upper elementary years. They single out that **most multimode seats fall short of a true ten-year lifespan because the booster belt guide sits too low for bigger kids, whereas this one delivers** — a meaningful distinction given how many seats here have nominal booster ceilings. Lockoffs, SuperCinch LATCH and the no-rethread harness reportedly "make installing and using the child restraint a breeze." Their measurements: **19.25" at the shoulders, 21.5" with the cupholders extended**, **24 lb** assembled ("kind of a heavy seat," not travel-friendly). Minor drawbacks: the two-position chest clip is puzzling to set correctly, and the seat's width kept their 5- and 8-year-old models from buckling themselves in booster mode.
 
+## Consumer Reports
+
+**Consumer Reports** (paid subscriber data, Sept 2026):
+
+| CR metric | Result |
+|---|---|
+| **Harnessed crash protection** | 🟢 **Best** |
+| Overall score | **80** / 100 |
+| Ease of use | 4/5 |
+| Rear-facing fit to vehicle | 4/5 |
+| Forward-facing fit to vehicle | 5/5 |
+| Booster fit | 4/5 |
+| Good small-car fit | No |
+| Load leg | No |
+| CR width / weight | 19" / 26 lb |
+| **CR recommended** | ✅ yes |
+
+Crash protection is rated on a **simulated 35-mph frontal crash** run by an independent lab, and the tier measures **margin above the federal FMVSS 213 floor** — every seat sold legally meets that floor. `n/a` means the mode does not apply. CR overall scores are relative within seat type and the category weightings are unpublished. Full methodology and the cross-source comparison: [Consumer Reports section in the summary](README.md#consumer-reports--crash-protection).
+
 ## Pros
 
 - **Forward-facing to 54"** — longest harnessed height limit of any seat in this comparison

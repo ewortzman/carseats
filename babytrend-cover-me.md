@@ -74,6 +74,25 @@ The second describes the seat rotating out of position under light rearward load
 
 **CSFTL: mixed, and they call it a niche pick.** "Where the Cover Me shined was in harness mode, both rear facing and forward facing," and the oversized canopy could genuinely help children bothered by sun. But: poor fit for their newborn doll (preemie fit was excellent), frustrating low-birthweight harness routing, and **a required belt-shortening clip that is not packaged with the seat**, which they believe invites misuse. Removable-but-required harness covers were easily pulled off by their toddler model, and the canopy became a driver distraction as children flipped it back and forth. Booster mode disappointed — their 7- and 10-year-old models had already outgrown it by torso height despite meeting the stated limits. Their measurements: **19" at the canopy** (widest), **19 lb**.
 
+## Consumer Reports
+
+**Consumer Reports** (paid subscriber data, Sept 2026):
+
+| CR metric | Result |
+|---|---|
+| **Harnessed crash protection** | 🟡 **Better** |
+| Overall score | **62** / 100 |
+| Ease of use | 4/5 |
+| Rear-facing fit to vehicle | 4/5 |
+| Forward-facing fit to vehicle | 3/5 |
+| Booster fit | 3/5 |
+| Good small-car fit | Yes |
+| Load leg | No |
+| CR width / weight | 19" / 18 lb |
+| **CR recommended** | — no |
+
+Crash protection is rated on a **simulated 35-mph frontal crash** run by an independent lab, and the tier measures **margin above the federal FMVSS 213 floor** — every seat sold legally meets that floor. `n/a` means the mode does not apply. CR overall scores are relative within seat type and the category weightings are unpublished. Full methodology and the cross-source comparison: [Consumer Reports section in the summary](README.md#consumer-reports--crash-protection).
+
 ## Pros
 
 - **4 modes, 4 lb to 100 lb**

@@ -73,6 +73,25 @@ Mid-pack for the category and below every Graco, Chicco and Joie convertible her
 
 That verdict is worth weighing against NHTSA's 2/5 rear-facing rating — the two disagree, and they are measuring different things. NHTSA scored the install *features* and labelling; CSFTL actually installed it.
 
+## Consumer Reports
+
+**Consumer Reports** (paid subscriber data, Sept 2026):
+
+| CR metric | Result |
+|---|---|
+| **Harnessed crash protection** | 🟢 **Best** |
+| Overall score | **62** / 100 |
+| Ease of use | 3/5 |
+| Rear-facing fit to vehicle | 3/5 |
+| Forward-facing fit to vehicle | 4/5 |
+| Booster fit | 4/5 |
+| Good small-car fit | No |
+| Load leg | No |
+| CR width / weight | 19" / 23 lb |
+| **CR recommended** | — no |
+
+Crash protection is rated on a **simulated 35-mph frontal crash** run by an independent lab, and the tier measures **margin above the federal FMVSS 213 floor** — every seat sold legally meets that floor. `n/a` means the mode does not apply. CR overall scores are relative within seat type and the category weightings are unpublished. Full methodology and the cross-source comparison: [Consumer Reports section in the summary](README.md#consumer-reports--crash-protection).
+
 ## Pros
 
 - Narrow shell — usable in tight back seats and three-across attempts

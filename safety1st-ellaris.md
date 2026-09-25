@@ -58,6 +58,25 @@ Clean across the matched records. 101 ratings is moderate exposure.
 
 Target publishes no attribute subscores. A 3.48 on 101 ratings is a clear signal of broad owner dissatisfaction rather than a few bad units.
 
+## Consumer Reports
+
+**Consumer Reports** (paid subscriber data, Sept 2026):
+
+| CR metric | Result |
+|---|---|
+| **Harnessed crash protection** | 🟡 **Better** |
+| Overall score | **65** / 100 |
+| Ease of use | 3/5 |
+| Rear-facing fit to vehicle | 4/5 |
+| Forward-facing fit to vehicle | 5/5 |
+| Booster fit | n/a |
+| Good small-car fit | No |
+| Load leg | No |
+| CR width / weight | 19" / 12 lb |
+| **CR recommended** | — no |
+
+Crash protection is rated on a **simulated 35-mph frontal crash** run by an independent lab, and the tier measures **margin above the federal FMVSS 213 floor** — every seat sold legally meets that floor. `n/a` means the mode does not apply. CR overall scores are relative within seat type and the category weightings are unpublished. Full methodology and the cross-source comparison: [Consumer Reports section in the summary](README.md#consumer-reports--crash-protection).
+
 ## Pros
 
 - **$99.99** — lowest price of any convertible on Target

@@ -68,6 +68,25 @@ One complaint on a 2,169-rating seat is a genuinely low rate.
 
 Widely bought and well liked; the general owner profile mirrors the [SlimFit3 LX](graco-slimfit3-lx.md) — praised for narrow fitment and easy cleaning, criticised for recline geometry and tight rear-facing legroom.
 
+## Consumer Reports
+
+**Consumer Reports** (paid subscriber data, Sept 2026):
+
+| CR metric | Result |
+|---|---|
+| **Harnessed crash protection** | 🟡 **Better** |
+| Overall score | **71** / 100 |
+| Ease of use | 4/5 |
+| Rear-facing fit to vehicle | 5/5 |
+| Forward-facing fit to vehicle | 5/5 |
+| Booster fit | 5/5 |
+| Good small-car fit | Yes |
+| Load leg | No |
+| CR width / weight | 18" / 19 lb |
+| **CR recommended** | ✅ yes |
+
+Crash protection is rated on a **simulated 35-mph frontal crash** run by an independent lab, and the tier measures **margin above the federal FMVSS 213 floor** — every seat sold legally meets that floor. `n/a` means the mode does not apply. CR overall scores are relative within seat type and the category weightings are unpublished. Full methodology and the cross-source comparison: [Consumer Reports section in the summary](README.md#consumer-reports--crash-protection).
+
 ## Pros
 
 - Rear-facing to **49"** on a 40 lb cap — long rear-facing runway for tall, light children

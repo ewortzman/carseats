@@ -76,6 +76,25 @@ Cleanest record of any rotating seat in this comparison, alongside [Turn2Me](gra
 - One owner reported a rear-facing design issue where a child's feet can reach a button affecting latching. Worth noting: this is the same class of complaint CSFTL raised about the [Fit360](chicco-fit360-cleartex.md) lock-off panel.
 - Recline cannot be changed after installation.
 
+## Consumer Reports
+
+**Consumer Reports** (paid subscriber data, Sept 2026):
+
+| CR metric | Result |
+|---|---|
+| **Harnessed crash protection** | 🟡 **Better** |
+| Overall score | **75** / 100 |
+| Ease of use | 4/5 |
+| Rear-facing fit to vehicle | 5/5 |
+| Forward-facing fit to vehicle | 5/5 |
+| Booster fit | n/a |
+| Good small-car fit | Yes |
+| Load leg | No |
+| CR width / weight | 17" / 26 lb |
+| **CR recommended** | ✅ yes |
+
+Crash protection is rated on a **simulated 35-mph frontal crash** run by an independent lab, and the tier measures **margin above the federal FMVSS 213 floor** — every seat sold legally meets that floor. `n/a` means the mode does not apply. CR overall scores are relative within seat type and the category weightings are unpublished. Full methodology and the cross-source comparison: [Consumer Reports section in the summary](README.md#consumer-reports--crash-protection).
+
 ## Pros
 
 - Lowest price in the comparison.

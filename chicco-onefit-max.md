@@ -66,6 +66,25 @@ Complaints: stiff harness that is "really hard" to adjust; a magnetic clip that 
 
 **CSFTL reviewed the [OneFit](chicco-onefit-lx.md) on this platform favourably** — it "impressed us in many ways," and unusually for a multimode seat it delivers a genuine ten-year life because the booster belt guide sits high enough for bigger children. Lockoffs, SuperCinch LATCH and the no-rethread harness "make installing and using the child restraint a breeze." Their OneFit measurements: 19.25" at the shoulders, 21.5" with cupholders extended, 24 lb.
 
+## Consumer Reports
+
+**Consumer Reports** (paid subscriber data, Sept 2026):
+
+| CR metric | Result |
+|---|---|
+| **Harnessed crash protection** | 🟢 **Best** |
+| Overall score | **74** / 100 |
+| Ease of use | 4/5 |
+| Rear-facing fit to vehicle | 4/5 |
+| Forward-facing fit to vehicle | 5/5 |
+| Booster fit | 4/5 |
+| Good small-car fit | No |
+| Load leg | No |
+| CR width / weight | 19" / 27 lb |
+| **CR recommended** | ✅ yes |
+
+Crash protection is rated on a **simulated 35-mph frontal crash** run by an independent lab, and the tier measures **margin above the federal FMVSS 213 floor** — every seat sold legally meets that floor. `n/a` means the mode does not apply. CR overall scores are relative within seat type and the category weightings are unpublished. Full methodology and the cross-source comparison: [Consumer Reports section in the summary](README.md#consumer-reports--crash-protection).
+
 ## Pros
 
 - **FMVSS 213a cited explicitly**

@@ -74,6 +74,25 @@ That is a striking gap: the best NHTSA ease-of-use score of any rotating seat, p
 
 Note also that this is a **2-in-1** at $339.99 while the [Matcha Spin SI](joie-matcha-spin-si.md) is a 3-in-1 at $359.99 — $20 more for a third mode.
 
+## Consumer Reports
+
+**Consumer Reports** (paid subscriber data, Sept 2026):
+
+| CR metric | Result |
+|---|---|
+| **Harnessed crash protection** | 🟡 **Better** |
+| Overall score | **77** / 100 |
+| Ease of use | 4/5 |
+| Rear-facing fit to vehicle | 4/5 |
+| Forward-facing fit to vehicle | 5/5 |
+| Booster fit | n/a |
+| Good small-car fit | Yes |
+| Load leg | No |
+| CR width / weight | 19" / 29 lb |
+| **CR recommended** | ✅ yes |
+
+Crash protection is rated on a **simulated 35-mph frontal crash** run by an independent lab, and the tier measures **margin above the federal FMVSS 213 floor** — every seat sold legally meets that floor. `n/a` means the mode does not apply. CR overall scores are relative within seat type and the category weightings are unpublished. Full methodology and the cross-source comparison: [Consumer Reports section in the summary](README.md#consumer-reports--crash-protection).
+
 ## Pros
 
 - **NHTSA rear-facing overall 5/5** — the best rotating-seat score in the entire 126-seat federal dataset

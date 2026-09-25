@@ -93,6 +93,25 @@ Complaints:
 
 **CSFTL: positive, with one vehicle-compatibility warning the listing never mentions.** They call it "a solid addition to Britax's lineup" that "really shines in rear facing mode," praising how compact it is upright rear-facing, its narrow profile and ClickTight. **But vehicle headrests interfered with the forward-facing install in every test vehicle, so CSFTL does not recommend it for cars with non-removable headrests.** They also flag that it is "not the longest-lasting option for extended rear facing, nor does it offer a ton of legroom," and its curvier shape caused trouble in narrow centre positions. Their measurements: **17" at the headrest, 16.5" at the cupholder area with cupholders off — but 20" once they are installed**; 13.5" base; **26 lb**.
 
+## Consumer Reports
+
+**Consumer Reports** (paid subscriber data, Sept 2026):
+
+| CR metric | Result |
+|---|---|
+| **Harnessed crash protection** | 🟡 **Better** |
+| Overall score | **70** / 100 |
+| Ease of use | 4/5 |
+| Rear-facing fit to vehicle | 4/5 |
+| Forward-facing fit to vehicle | 5/5 |
+| Booster fit | n/a |
+| Good small-car fit | Yes |
+| Load leg | No |
+| CR width / weight | 17" / 27 lb |
+| **CR recommended** | ✅ yes |
+
+Crash protection is rated on a **simulated 35-mph frontal crash** run by an independent lab, and the tier measures **margin above the federal FMVSS 213 floor** — every seat sold legally meets that floor. `n/a` means the mode does not apply. CR overall scores are relative within seat type and the category weightings are unpublished. Full methodology and the cross-source comparison: [Consumer Reports section in the summary](README.md#consumer-reports--crash-protection).
+
 ## Pros
 
 - **ClickTight** — the most misuse-resistant belt install on the market

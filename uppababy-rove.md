@@ -87,6 +87,25 @@ Target flags that many 4–5 star reviews came via a promotion or product-testin
 
 **CSFTL: reviewed favourably.** Their measurements differ from Target's: **19" at the shoulders, 14" at the base, 25.7 lb**. Harness heights 8" with the insert / 10" without, up to 16.5"; crotch buckle at 2", 3" and 4"; 5 recline positions. They confirm the 10-year expiry with the DOM and expiration labels on the bottom of the base, and note the forward-facing lower-anchor limit of 45 lb is "not the preferred method for forward facing mode." Replace the seat after any crash.
 
+## Consumer Reports
+
+**Consumer Reports** (paid subscriber data, Sept 2026):
+
+| CR metric | Result |
+|---|---|
+| **Harnessed crash protection** | 🟢 **Best** |
+| Overall score | **67** / 100 |
+| Ease of use | 4/5 |
+| Rear-facing fit to vehicle | 3/5 |
+| Forward-facing fit to vehicle | 4/5 |
+| Booster fit | n/a |
+| Good small-car fit | Yes |
+| Load leg | No |
+| CR width / weight | 19" / 26 lb |
+| **CR recommended** | — no |
+
+Crash protection is rated on a **simulated 35-mph frontal crash** run by an independent lab, and the tier measures **margin above the federal FMVSS 213 floor** — every seat sold legally meets that floor. `n/a` means the mode does not apply. CR overall scores are relative within seat type and the category weightings are unpublished. Full methodology and the cross-source comparison: [Consumer Reports section in the summary](README.md#consumer-reports--crash-protection).
+
 ## Pros
 
 - **Best install-confirmation hardware of any non-rotating seat here** — spring-loaded lock-off doors plus SmartSecure red-to-green tension indicator

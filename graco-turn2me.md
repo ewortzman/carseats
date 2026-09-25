@@ -101,6 +101,25 @@ Corroborating owner reports:
 
 **Fit:** Fit the 4 lb / 17" preemie doll well. The 7 lb newborn fit, though padding made the doll look "a bit squished." Roomy for 16-month and 3-year-old models. A 3-year-old tester (31 lb, 38") enjoyed rotating but had to learn to keep legs bent while turning.
 
+## Consumer Reports
+
+**Consumer Reports** (paid subscriber data, Sept 2026):
+
+| CR metric | Result |
+|---|---|
+| **Harnessed crash protection** | 🟡 **Better** |
+| Overall score | **74** / 100 |
+| Ease of use | 4/5 |
+| Rear-facing fit to vehicle | 4/5 |
+| Forward-facing fit to vehicle | 5/5 |
+| Booster fit | 4/5 |
+| Good small-car fit | Yes |
+| Load leg | No |
+| CR width / weight | 19" / 28 lb |
+| **CR recommended** | ✅ yes |
+
+Crash protection is rated on a **simulated 35-mph frontal crash** run by an independent lab, and the tier measures **margin above the federal FMVSS 213 floor** — every seat sold legally meets that floor. `n/a` means the mode does not apply. CR overall scores are relative within seat type and the category weightings are unpublished. Full methodology and the cross-source comparison: [Consumer Reports section in the summary](README.md#consumer-reports--crash-protection).
+
 ## Pros
 
 - Zero NHTSA complaints across substantial field exposure.

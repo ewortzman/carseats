@@ -66,6 +66,25 @@ Praise: rock-solid install — "There is literally ZERO move in the base"; one o
 
 Complaints: bulky front-to-back — one owner could not slide the front seats back in a 2023 Camry; weak side magnets that "don't stay in place when getting baby out"; heavy to move between bases; one parent bought a cover to stop their child kicking the base release (echoing CSFTL's finding on the standard Fit360 that a barefoot 3-year-old could partly open the lock-off panel).
 
+## Consumer Reports
+
+**Consumer Reports** (paid subscriber data, Sept 2026) — figures inherited from the **[Fit360](chicco-fit360-cleartex.md)**, the same platform:
+
+| CR metric | Result |
+|---|---|
+| **Harnessed crash protection** | 🟢 **Best** |
+| Overall score | **84** / 100 |
+| Ease of use | 4/5 |
+| Rear-facing fit to vehicle | 5/5 |
+| Forward-facing fit to vehicle | 5/5 |
+| Booster fit | n/a |
+| Good small-car fit | No |
+| Load leg | No |
+| CR width / weight | 19" / 34 lb |
+| **CR recommended** | ✅ yes |
+
+Crash protection is rated on a **simulated 35-mph frontal crash** run by an independent lab, and the tier measures **margin above the federal FMVSS 213 floor** — every seat sold legally meets that floor. `n/a` means the mode does not apply. CR overall scores are relative within seat type and the category weightings are unpublished. Full methodology and the cross-source comparison: [Consumer Reports section in the summary](README.md#consumer-reports--crash-protection).
+
 ## Pros
 
 - **Zip & Wash pad** — removes in one piece, fixing the standard Fit360's worst usability flaw

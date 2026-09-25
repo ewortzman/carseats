@@ -1,0 +1,8 @@
+# Consumer Reports source exports — paid subscriber content, deliberately not committed.
+# Referenced in README.md / sources.md; kept local only.
+Car Seat Ratings & Reviews - Consumer Reports.pdf
+Car Seat Ratings & Reviews - Consumer Reports.htm
+Car Seat Ratings & Reviews - Consumer Reports_files/
+*.pdf
+*.htm
+*.html

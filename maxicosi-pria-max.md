@@ -77,6 +77,25 @@ Neither covers the current Pria Max. Family complaint themes include **harness w
 
 **CSFTL: positive, with reservations.** They call it "a plush seat that fits our newborn and preemie dolls well" and say installation is "far easier than on the previous model," crediting Maxi-Cosi for details like harness covers and small-infant positioning. Their measurements: **20" at the widest point** (cupholders), **18 lb**. Downsides: notably short top-tether webbing, a chest clip that must be stored separately in booster mode, and **limited forward-facing longevity** — their 4-year-old was already near the top harness setting despite being 6" under the height limit, so another harnessed seat would likely be needed. The wide base also made self-buckling hard in booster mode in one test vehicle.
 
+## Consumer Reports
+
+**Consumer Reports** (paid subscriber data, Sept 2026) — figures inherited from the **[Pria](maxicosi-pria-pure-cosi.md)**, the same platform:
+
+| CR metric | Result |
+|---|---|
+| **Harnessed crash protection** | 🟡 **Better** |
+| Overall score | **54** / 100 |
+| Ease of use | 3/5 |
+| Rear-facing fit to vehicle | 2/5 |
+| Forward-facing fit to vehicle | 4/5 |
+| Booster fit | 4/5 |
+| Good small-car fit | No |
+| Load leg | No |
+| CR width / weight | 19" / 16 lb |
+| **CR recommended** | — no |
+
+Crash protection is rated on a **simulated 35-mph frontal crash** run by an independent lab, and the tier measures **margin above the federal FMVSS 213 floor** — every seat sold legally meets that floor. `n/a` means the mode does not apply. CR overall scores are relative within seat type and the category weightings are unpublished. Full methodology and the cross-source comparison: [Consumer Reports section in the summary](README.md#consumer-reports--crash-protection).
+
 ## Pros
 
 - Three-plus modes, 4 lb to 100 lb
