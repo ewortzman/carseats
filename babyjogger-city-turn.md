@@ -7,7 +7,7 @@
 
 ## Verdict
 
-**One of only five rotating seats in NHTSA's entire 126-seat rated dataset** — scored **4/5 overall in both directions** with 5/5 instructions. Rear-facing to 50 lb / 49", one complaint, no recalls. But it is $463.99 for a 2-mode seat, NHTSA scored forward-facing vehicle-installation features **2/5**, and the tether is required forward-facing on a seat that swivels that way.
+**One of only five rotating seats in NHTSA's entire 126-seat rated dataset** — scored **4/5 overall in both directions** with 5/5 instructions. Rear-facing to 50 lb / 49", one complaint, no recalls, and only 19 lb. **But its rotation is partial: 180°, rear-facing only** — the most limited rotation of any seat here, on the second-most-expensive seat here. It is also **23.5" wide**, the widest in this comparison.
 
 | Metric | Score |
 |---|---|
@@ -25,13 +25,15 @@
 | Rear-facing | **4–50 lb, 17–49"** |
 | Forward-facing | 22–65 lb, 28–49" |
 | Booster | None |
-| Rotation | 360°, both directions |
+| Rotation | **180°, rear-facing only** |
 | Install | LATCH or belt |
 | Lower anchor limits | **30 lb rear-facing** (NHTSA records 37 lb max), 40 lb forward-facing — low, so you move to a belt install early |
 | Tether | **Required forward-facing** |
 | Harness | 5-pt no-rethread |
-| Life | Not published on listing |
+| Life | Not published. Target suggested age **0–4 years** |
 | Warranty | 1 year limited |
+| Dimensions | 32.5" H × **23.5" W** × 23" D — **widest seat in this comparison** |
+| Weight | **19 lb** — lightest rotating seat here |
 | Note | CSFTL's rotating-seat chart lists this at a $500 MSRP; Target discounts to $463.99 |
 
 ## Safety
@@ -49,7 +51,9 @@ For context among rated rotating seats: [Joie Chili Spin 360](joie-chili-spin-si
 
 **Rear-facing to 50 lb / 49"** matches [Britax Galaxy 360](britax-galaxy-360-slim.md) and the Evenflo rotating seats for the best rear-facing capacity in this comparison.
 
-The tether being required forward-facing on a seat that rotates forward-facing means re-checking it after every rotation — CSFTL flags this pattern as a real-world misuse risk on rotating seats generally. Contrast [Graco Turn2Me](graco-turn2me.md), which rotates rear-facing only so the tether can stay hooked.
+**Rotation is 180° and rear-facing only.** Target's highlights describe "one-hand 180-degree turn in rear-facing mode," and an owner confirms it "Does not rotate in forward facing position." Another owner considers that a non-issue since there is more room to load a forward-facing child anyway. Either way, it is materially less rotation than [Graco EasyTurn 360](graco-easyturn-360.md) ($279.99, full 360° both directions) or [Joie Chili Spin SI](joie-chili-spin-si.md) ($339.99, full 360° both directions) provide for less money.
+
+One genuine upside of rear-facing-only rotation, shared with [Graco Turn2Me](graco-turn2me.md): the tether can stay hooked permanently forward-facing. But the tether being required forward-facing means re-checking it after every rotation — CSFTL flags this pattern as a real-world misuse risk on rotating seats generally. Contrast [Graco Turn2Me](graco-turn2me.md), which rotates rear-facing only so the tether can stay hooked.
 
 No FMVSS 213a claim was documented for this seat in this research pass.
 
@@ -79,14 +83,16 @@ CSFTL has reviewed this seat and includes it in their rotating-seat comparison c
 - **One of only five rotating seats with an official NHTSA Ease-of-Use rating** — 4/5 in both directions
 - **5/5 instructions in both modes**; 5/5 forward-facing labels
 - **Rear-facing to 50 lb / 49"** — best-in-class rear-facing capacity
-- Rotates 360° in both directions
+- Rotates **180°, rear-facing only** — partial rotation
 - 1 complaint, 0 recalls, 0 investigations
 - CSFTL-reviewed, so independently documented
 - Discounted $116 off MSRP
 
 ## Cons
 
-- **$463.99 for a 2-mode seat** — no booster; another seat follows
+- **Rotation is only 180° and only rear-facing** — the most limited rotation of any seat here
+- **23.5" wide — widest seat in this comparison**; rules out three-across and tight back seats
+- **$463.99 for a 2-mode seat** with partial rotation — no booster; another seat follows
 - NHTSA **2/5 forward-facing vehicle-installation features**; 3/5 securing the child in both modes
 - **Rear-facing lower-anchor limit only 30 lb** — you will switch to a belt install early
 - Tether required forward-facing on a seat that rotates forward-facing — re-check it every time
@@ -101,7 +107,9 @@ Genuinely good rotating seat with real federal data behind it — and priced pas
 
 If you want the 50 lb rear-facing limit specifically, [Britax Galaxy 360](britax-galaxy-360-slim.md) delivers it at $343.99 with ClickTight, an anti-rebound panel and explicit 213a — but 29% would recommend it.
 
-Buy the City Turn if you want a rated rotating seat and 50 lb rear-facing in one package and the price does not bother you. Check the harness webbing at the hip slots periodically.
+Hard to justify now that the rotation is pinned down. **$463.99 buys 180° of rear-facing-only rotation in the widest seat on this list.** [Graco EasyTurn 360](graco-easyturn-360.md) at $279.99 rotates a full 360° in both directions, is 17" wide, and has 1 complaint with 85% would recommend. [Joie Chili Spin SI](joie-chili-spin-si.md) at $339.99 rotates a full 360° both directions and its rated sibling scored **5/5** rear-facing to this seat's 4/5.
+
+The case that survives: it is the lightest rotating seat here at 19 lb, it has a real federal rating, and it rear-faces to 50 lb. If those three together are what you want and width is not a constraint, it is defensible. Otherwise the Graco or the Joie deliver more rotation for less money. Check the harness webbing at the hip slots periodically.
 
 ---
 

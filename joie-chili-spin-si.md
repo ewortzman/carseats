@@ -22,15 +22,16 @@
 | Field | Value |
 |---|---|
 | Modes | 2 — rear-facing, forward-facing |
-| Rear-facing | 4–40 lb, up to 43" |
-| Forward-facing | 30–65 lb, up to 49" |
+| Rear-facing | 4–40 lb, 15–43" |
+| Forward-facing | 30–65 lb, 35–49" |
 | Booster | None |
-| Rotation | 360° in both harness directions |
+| Rotation | **Full 360°**, both rear- and forward-facing — "The 360° spin turns the car seat toward you," lever-operated |
 | Install | LATCH or belt with **LockTight** lock-off |
 | Lower anchor limits | 38 lb rear-facing, 40 lb forward-facing |
 | Harness | 5-pt no-rethread, headrest + harness adjust together |
 | Side impact | SIP pods; side bolsters required to 40 lb |
-| Dimensions | ~19"-class width |
+| Dimensions | 19.69" H × **21" W** × 19.69" D |
+| Weight | 28.7 lb |
 | Life | Not published on listing |
 | Warranty | 1 year limited |
 

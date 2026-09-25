@@ -23,7 +23,7 @@
 | Rear-facing | 4–40 lb; head must sit **at least 1" below the headrest adjustment handle** (no inch figure) |
 | Forward-facing | 22–65 lb (Target spec table says 26.5–100 lb — listing is internally inconsistent), up to 49". **Recline position 2 or 3 required under 25 lb** |
 | Highback booster | 40–100 lb, 43–57", min. age 4 (CSFTL urges waiting to 5); recline position 1 required; LATCH allowed |
-| Rotation | **Rear-facing only.** Graco confirms twice: the turn function "is only able to be used when the car seat is rear facing." One-handed, audible click to re-lock |
+| Rotation | **Rear-facing only; angle never published.** Graco confirms twice in the Q&A: "The Turn2Me turning function is only able to be used when the car seat is rear facing." The listing gives no degree figure — the highlights only say "Rotate from rear-facing mode with one hand." One-handed, audible click to re-lock |
 | Base | Non-detachable; seat stays in vehicle, no stroller compatibility |
 | Install | SnugLock lock-off, both directions, belt or LATCH. Push-button InRight LATCH |
 | Tether | Required forward-facing — **can stay attached permanently** since the seat does not swivel that way |

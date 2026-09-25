@@ -121,7 +121,7 @@ Dorel replied publicly to several of these.
 
 $20 over the [base Turn and Go 360](safety1st-turn-and-go-360.md) buys trim, not a fix — the swivel lever is still where owners cannot reach it rear-facing, and that is the complaint that drives the 66% recommend rate.
 
-At 22" wide it is the widest seat in this comparison, which rules out three-across and most small cars.
+At 22" wide it is the second-widest seat in this comparison, behind only the [Baby Jogger City Turn](babyjogger-city-turn.md) at 23.5" — which rules out three-across and most small cars.
 
 For $20 *less* than this, [Graco Turn2Me](graco-turn2me.md) has zero complaints and 1,695 ratings, though CSFTL de-recommended it. For $70 less, [Graco EasyTurn 360](graco-easyturn-360.md) rotates both directions with 1 complaint, 4.75★ and 85% would recommend. For $10 more, [Joie Matcha Spin SI](joie-matcha-spin-si.md) gives three modes, 213a/213b, zero complaints and the best NHTSA-rated rotating sibling in the dataset.
 
