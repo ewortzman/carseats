@@ -31,7 +31,7 @@
 | Harness | 5-pt no-rethread Simply Safe Adjust, 10 positions; harness storage for booster mode |
 | Dimensions | 23.5" H × 19.25" W × 20.5" D |
 | Weight | **17.2 lb** — lightest seat in the comparison |
-| Life | 10 years of use claimed |
+| Life | **10 years** from manufacture (CSFTL). Manufacture-date label on a pillar on the back of the seat |
 | Aircraft | Permitted with 5-pt harness |
 | Warranty | 1 year limited |
 
@@ -88,6 +88,8 @@ Complaints:
 - **J-hook LATCH** — "practically impossible to remove."
 - Durability: "a lot of its parts start to rattle"; cracked Styrofoam headpiece at ~18 months with no replacement part sold.
 - Perceived flimsiness.
+
+**CSFTL: positive.** The seat "fit all of our dolls well, installed without too much trouble, converts between modes with ease and comes in at a pretty reasonable price point," and booster-mode belt fit earned "another virtual gold star" — though they call the booster "transitional" rather than long-lasting. Their measurements: **18" at the widest point** (cupholders — which is why they do not consider it a three-across candidate) and **17 lb**, light enough that the reviewer would use it as a travel seat.
 
 ## Pros
 

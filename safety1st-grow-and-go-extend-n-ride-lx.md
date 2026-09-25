@@ -29,7 +29,7 @@
 | Install | LATCH or belt |
 | Notable | **Extend n Ride** leg-room extension panel for longer rear-facing use |
 | Ratings | **1.0★ from 1 review** |
-| Life | Not published on listing |
+| Life | **10 years** from manufacture (CSFTL; manual p. 63). Stamped into the base; DOM label on the shell near the child's left hip |
 | Warranty | 1 year limited |
 
 ## Safety
@@ -67,6 +67,10 @@ No record means not yet in the database, not clean. The [Grow and Go](safety1st-
 **1.0★ from 1 review.** That is not evidence of a bad seat — a single one-star review is frequently a delivery or fulfilment complaint rather than a product fault — but it is also no evidence of a good one.
 
 Platform context: [Grow and Go](safety1st-grow-and-go.md) sits at 4.13★ across 2,930 ratings with zero NHTSA complaints.
+
+**CSFTL: generally positive on usability, with booster-mode reservations.** The reviewer liked the concept of "a forward facing footrest to help with dangling legs" and that the harness stores on the seat in booster mode, finding the seat "easy to use and adjust" with clear footrest labelling. Downsides: the crotch buckle does not store on the seat so it is easy to lose, and **booster mode drew real criticism — fit was poor on two 6-year-old models, with the lap belt riding "too high on the belly" and "significant vehicle seat belt retraction issues"** caused by the guide sitting inside the shell. Their measurement: **18.5" at the widest point** (shoulders and cupholders).
+
+That changes the picture from the 1.0★ single review — an independent expert found the harness modes fine. The booster stage is the weak part.
 
 ## Pros
 

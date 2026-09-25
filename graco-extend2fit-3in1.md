@@ -28,7 +28,7 @@ The Extend2Fit with booster mode added — rear-facing to 50 lb via the extendin
 | Rotation | None |
 | Install | LATCH or belt; InRight LATCH |
 | Harness | 5-pt no-rethread Simply Safe Adjust |
-| Life | 10 years of use |
+| Life | **10 years** from manufacture |
 | Warranty | 1 year limited |
 
 ## Safety

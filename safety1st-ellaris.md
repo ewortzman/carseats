@@ -27,7 +27,7 @@
 | Rotation | None |
 | Install | LATCH or belt |
 | Harness | 5-pt |
-| Life | Not published on listing |
+| Life | Not published on the listing and no CSFTL teardown exists — **read it off the seat label / manual.** Dorel convertibles verified here are 10 years |
 | Warranty | 1 year limited |
 
 ## Safety

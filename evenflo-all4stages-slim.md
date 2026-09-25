@@ -31,7 +31,7 @@ Four modes in a slim shell with an unusual built-in canopy, and — notably for 
 | Harness | 5-pt no-rethread |
 | Notable | Built-in removable canopy for sun protection — unusual on a convertible |
 | Dimensions | Slim shell (Evenflo markets ~17"-class width) |
-| Life | Typically 8–10 years — not published on this listing |
+| Life | Not published on the listing and no CSFTL teardown exists — **read it off the seat label / manual** |
 | Warranty | 90 days |
 
 ## Safety

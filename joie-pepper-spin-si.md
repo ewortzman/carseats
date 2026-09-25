@@ -32,7 +32,7 @@
 | Harness | **GrowTogether 15-position** headrest + harness adjusting simultaneously; two elastic buckle holders |
 | Dimensions | 25.9" H × 19.2" W × 21" D · ~30" front-to-back rear-facing deepest recline |
 | Weight | **32.41 lb** — heaviest seat in this comparison |
-| Life | Not published on listing |
+| Life | Not published on the listing and no CSFTL teardown exists — **read it off the seat label / manual** |
 | Warranty | 1 year limited |
 
 ## Safety

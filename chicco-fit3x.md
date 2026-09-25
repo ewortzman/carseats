@@ -31,7 +31,7 @@
 | Harness | 5-pt no-rethread, 12-position headrest, flex-forward crotch buckle |
 | Dimensions | 25" H × **16.7" W** × 21" D · 30" front-to-back rear-facing reclined |
 | Weight | **21 lb** |
-| Life | Not published on listing — check the label |
+| Life | Not published on the listing and no CSFTL teardown exists — **read it off the seat label / manual.** The [Fit360](chicco-fit360-cleartex.md) is 8 years; the [OneFit](chicco-onefit-lx.md) is 10 |
 | Aircraft | FAA approved harness modes only |
 | Fabric | ClearTex — flame-retardant-free, **GREENGUARD Gold Certified** |
 | Warranty | 1 year limited |

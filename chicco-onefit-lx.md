@@ -29,7 +29,7 @@
 | Install | LATCH or belt; LeverLock-style belt lock-off |
 | Lower anchor limits | 40 lb rear-facing, 40 lb forward-facing |
 | Harness | 5-pt no-rethread |
-| Life | Not published on listing |
+| Life | **10 years** from manufacture (CSFTL; manual p. 12). Label on the underside of the base |
 | Fabric | ClearTex — flame-retardant-free |
 | Warranty | 1 year limited |
 
@@ -74,6 +74,8 @@ The headrest-foam exposure theme appears in 6 of 8 filings. This is the same fai
 Praise: roomy for tall children, long forward-facing runway, plush padding, ClearTex fabric.
 
 Complaints mirror the NHTSA themes: exposed/cracking headrest foam, cover removal difficulty, and a buckle some children can release themselves.
+
+**CSFTL: favourable.** The seat "impressed us in many ways," accommodating children from newborn through upper elementary years. They single out that **most multimode seats fall short of a true ten-year lifespan because the booster belt guide sits too low for bigger kids, whereas this one delivers** — a meaningful distinction given how many seats here have nominal booster ceilings. Lockoffs, SuperCinch LATCH and the no-rethread harness reportedly "make installing and using the child restraint a breeze." Their measurements: **19.25" at the shoulders, 21.5" with the cupholders extended**, **24 lb** assembled ("kind of a heavy seat," not travel-friendly). Minor drawbacks: the two-position chest clip is puzzling to set correctly, and the seat's width kept their 5- and 8-year-old models from buckling themselves in booster mode.
 
 ## Pros
 

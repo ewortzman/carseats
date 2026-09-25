@@ -32,7 +32,7 @@
 | Side impact | **SIP pods**; removable insert with SIP to 40 lb; added SIP in the headrest |
 | Dimensions | 33" H × 19" W × 22" D · ~30" front-to-back rear-facing fully reclined |
 | Weight | **23.1 lb** |
-| Life | Not published on listing |
+| Life | Not published on the listing and no CSFTL teardown exists — **read it off the seat label / manual** |
 | Aircraft | **Not FAA compliant** |
 | Warranty | 1 year limited |
 

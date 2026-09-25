@@ -27,7 +27,7 @@ Maxi-Cosi's mid-premium convertible — 4.65★ but on only **28 ratings**, with
 | Rotation | None |
 | Install | LATCH or belt |
 | Harness | No-rethread |
-| Life | Not published on listing |
+| Life | Not published on the listing and no CSFTL teardown exists — **read it off the seat label / manual** |
 | Warranty | 1 year limited |
 | Data note | **Target listing specs were not retrieved in this research pass** — confirm per-mode limits, width, weight and expiry on the product page |
 

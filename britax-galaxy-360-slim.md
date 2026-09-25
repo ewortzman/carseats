@@ -33,7 +33,7 @@
 | Structure | High-strength steel frame, **integrated anti-rebound panel**, "two layers of energy management" |
 | Dimensions | 23" H × **17" W** × 21" D — "SpaceSaver" width, **fits 3 across** |
 | Weight | 31 lb |
-| Life | **Not stated** on the listing |
+| Life | Not published on the listing and no CSFTL teardown exists — **read it off the seat label / manual.** Britax seats verified here are 10 years. Note the **6-year age cap** binds first either way |
 | Fabrics | Polyester; machine washable and dryable; "naturally flame-retardant with no added FR chemicals" |
 | Warranty | 1 year limited |
 

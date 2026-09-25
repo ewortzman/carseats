@@ -30,7 +30,7 @@ A rebadged [Safety 1st Grow and Go](safety1st-grow-and-go.md) in Disney fabric f
 | Lower anchor limits | 40 lb rear-facing, 55 lb forward-facing |
 | Harness | 5-pt no-rethread |
 | Weight | 18.7 lb per listing title |
-| Life | Not published on listing |
+| Life | **10 years** † — inherited from the Safety 1st [Grow and Go](safety1st-grow-and-go.md) platform |
 | Warranty | 1 year limited |
 
 ## Safety

@@ -28,7 +28,7 @@
 | Rotation | None |
 | Install | LATCH or belt; Evenflo SureLATCH-type connectors |
 | Harness | 5-pt, no-rethread, infinite-slide style on the Symphony platform |
-| Life | Typically 8–10 years — not published on this listing |
+| Life | Not published on the listing and no CSFTL teardown of this variant exists — **read it off the seat label / manual** |
 | Warranty | 90 days (Evenflo standard) |
 
 ## Safety

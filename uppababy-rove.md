@@ -33,7 +33,7 @@
 | Tether | **Multi-Directional Tether** — reduces seat rotation and stress on the child's head and neck |
 | Dimensions | 27.4" H × 18.8" W × 23.8" D |
 | Weight | 24.6 lb |
-| Life | Not published on listing |
+| Life | **10 years** from manufacture (CSFTL). DOM and expiration labels on the bottom of the base |
 | Aircraft | **FAA certified** |
 | Fabric | DualTech / PureTech — fire-retardant-free, **GREENGUARD Gold + JPMA certified** |
 | Warranty | **3 years** — longest in this comparison |
@@ -84,6 +84,8 @@ Complaints:
 - **Repeat twisting of the vehicle belt** — "This is our second Rove and both seats do the same thing."
 
 Target flags that many 4–5 star reviews came via a promotion or product-testing panel.
+
+**CSFTL: reviewed favourably.** Their measurements differ from Target's: **19" at the shoulders, 14" at the base, 25.7 lb**. Harness heights 8" with the insert / 10" without, up to 16.5"; crotch buckle at 2", 3" and 4"; 5 recline positions. They confirm the 10-year expiry with the DOM and expiration labels on the bottom of the base, and note the forward-facing lower-anchor limit of 45 lb is "not the preferred method for forward facing mode." Replace the seat after any crash.
 
 ## Pros
 

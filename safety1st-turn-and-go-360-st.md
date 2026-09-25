@@ -30,7 +30,7 @@
 | Install | LATCH or belt; SecureTech base tension indicators, belt lock-off arm, top-tether indicator |
 | Harness | 10-position headrest + harness; SecureTech magnetic chest clip |
 | Ratings | **None — 0 reviews at time of research (2026-09-24)** |
-| Life | Not published on listing |
+| Life | **10 years** † — inherited from the [base Turn and Go 360](safety1st-turn-and-go-360.md) |
 | Warranty | 1 year limited |
 
 ## Safety
@@ -71,6 +71,8 @@ Two complaints is a small number. But the second one describes the seat separati
 For the platform: the [base Turn and Go 360](safety1st-turn-and-go-360.md) sits at 3.74★ across 188 ratings and the [DLX](safety1st-turn-and-go-360-dlx.md) at 3.94★ with **66% would recommend** and 8% one-star. The dominant complaint on both is that the swivel lever is nearly unreachable rear-facing, plus a chest clip that sometimes will not release and a seat that can lift slightly from the base.
 
 Assume this trim behaves the same until owner data says otherwise.
+
+**CSFTL reviewed this platform and was unfavourable** — **"heavy, awkward to install, short-lived, and on the expensive side."** They found no scenario justifying it: 8.5" lowest harness slot, **15" top harness slot** (~age 4), impractically short booster belt guide, tippy in booster mode, 30 lb, no FAA approval. A new trim does not change any of that.
 
 ## Pros
 

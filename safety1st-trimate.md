@@ -29,7 +29,7 @@ A $149.99 all-in-one to 100 lb with a clean record and only 11 ratings. **NHTSA 
 | Install | LATCH or belt |
 | Lower anchor limits | 40 lb rear-facing, 55 lb forward-facing |
 | Harness | 5-pt no-rethread |
-| Life | Not published on listing |
+| Life | **10 years** from manufacture (CSFTL). Label on the outside of the shell, on the base |
 | Warranty | 1 year limited |
 
 ## Safety
@@ -67,6 +67,10 @@ Clean — but with only 11 Target ratings, exposure is minimal and this is close
 4.0★ from **11 ratings** — far too few to characterise anything. Target publishes no attribute subscores.
 
 Treat the owner data as unusable and weigh the NHTSA rating instead, which is the only substantive evidence available for this seat.
+
+**CSFTL: unfavourable.** The reviewer places it among the very few seats she could find no best-use scenario for, describing it as **"a basic multimode seat that doesn't do anything particularly well"** and noting it is **"hard to install correctly."** Persistent side-to-side tipping, a balky recline adjuster, an inability to sit flush on the vehicle seat, and a low 17" top belt guide (so a short-lived booster stage) drove the conclusion. She could not recommend it even as a lightweight travel seat "in good conscience" — despite its **12 lb** weight, which she calls the seat's "most redeeming quality."
+
+That is an independent expert reaching the same conclusion as NHTSA's 2/5 rear-facing rating and 1/5 install-features score. Two sources, same verdict.
 
 ## Pros
 

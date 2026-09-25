@@ -31,7 +31,7 @@ Four modes to 100 lb with a built-in canopy, rated by NHTSA at **3/5 rear-facing
 | Harness | 5-pt |
 | Notable | Adjustable removable **canopy** for sun protection; 2 cup holders |
 | Price | **Target shows "See price in cart"** — a second listing shows $166.99–$172.99 (reg $349.99–$389.99) |
-| Life | Not published on listing |
+| Life | **7 years** harnessed / **9 years** in booster mode (CSFTL) — the only seat in this comparison with a different expiry per mode. DOM label on the rear of the shell |
 | Warranty | 1 year limited |
 
 ## Safety
@@ -71,6 +71,8 @@ The second describes the seat rotating out of position under light rearward load
 4.30★ from 551 ratings. Target does not publish full attribute subscores on the main listing; a second Cover Me listing shows **3.73★ from 36 ratings**.
 
 551 ratings makes 4.30 meaningful — mid-pack, below every Graco, Chicco and Joie convertible here.
+
+**CSFTL: mixed, and they call it a niche pick.** "Where the Cover Me shined was in harness mode, both rear facing and forward facing," and the oversized canopy could genuinely help children bothered by sun. But: poor fit for their newborn doll (preemie fit was excellent), frustrating low-birthweight harness routing, and **a required belt-shortening clip that is not packaged with the seat**, which they believe invites misuse. Removable-but-required harness covers were easily pulled off by their toddler model, and the canopy became a driver distraction as children flipped it back and forth. Booster mode disappointed — their 7- and 10-year-old models had already outgrown it by torso height despite meeting the stated limits. Their measurements: **19" at the canopy** (widest), **19 lb**.
 
 ## Pros
 

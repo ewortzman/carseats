@@ -31,7 +31,7 @@ The narrower [One4Life](britax-one4life.md) — and **the specific model named i
 | Structure | Steel frame with SafeCell, two energy-management layers, V-shaped tether |
 | Anti-rebound | Not listed |
 | Dimensions | Slim variant of the 19.5"-wide One4Life |
-| Life | 10-year seat; no expiry published |
+| Life | **10 years** from manufacture (CSFTL). Label on the seat pan under the fabric, lefthand side of the ClickTight panel |
 | Recalled models | **E1D197A, E1D197B, E1D197F, E1D197G** |
 | Warranty | 1 year limited |
 
@@ -81,6 +81,8 @@ Also filed: "The tension release at the bottom of the harness... has a screw hol
 Shares the [One4Life](britax-one4life.md) ownership profile: harness ridiculously hard to tighten, cover separating from the shell at the headrest, short straps, awkward crotch buckle, weak booster buckling, ClickTight jamming after extended use. The ClickTight install speed remains the standout positive.
 
 For context, the full-size [One4Life](britax-one4life.md) sits at 28% would-recommend with value 2.5 and quality 2.8.
+
+**CSFTL: favourable.** They concluded Britax "took the best parts of the One4Life and created an even better version," that "it lives up to the name Slim," and that it worked from infancy through booster age with ClickTight making conversions easy. Their measurements: **17" at the widest point** (booster lap-belt guides), 14.5" base, 14" internal at the child's shoulders, **27.5 lb** with all inserts. Caveats: rear-face to the seat's max rather than turning early (no forward-facing minimum age is listed), wait to at least age 5 for booster mode, and note their review sample was affected by the 2024 recall.
 
 ## Pros
 

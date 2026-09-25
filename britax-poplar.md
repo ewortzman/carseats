@@ -34,7 +34,7 @@
 | Anti-rebound | **Not included** — stability bar is an add-on accessory |
 | Dimensions | 23.5" H × **17" W** × 20.5" D — SpaceSaver, marketed 3-across |
 | Weight | 27.2 lb |
-| Life | Not published on listing |
+| Life | **10 years** from manufacture (CSFTL). Label on the back of the seat, left of the top-tether storage |
 | Fabric | Naturally flame-retardant, **no added FR chemicals**; machine washable |
 | Warranty | 1 year limited |
 
@@ -90,6 +90,8 @@ Complaints:
 - Top-tether tightening angle "really difficult."
 - ClickTight described as "very temperamental compared to our other click tight car seats."
 
+
+**CSFTL: positive, with one vehicle-compatibility warning the listing never mentions.** They call it "a solid addition to Britax's lineup" that "really shines in rear facing mode," praising how compact it is upright rear-facing, its narrow profile and ClickTight. **But vehicle headrests interfered with the forward-facing install in every test vehicle, so CSFTL does not recommend it for cars with non-removable headrests.** They also flag that it is "not the longest-lasting option for extended rear facing, nor does it offer a ton of legroom," and its curvier shape caused trouble in narrow centre positions. Their measurements: **17" at the headrest, 16.5" at the cupholder area with cupholders off — but 20" once they are installed**; 13.5" base; **26 lb**.
 
 ## Pros
 

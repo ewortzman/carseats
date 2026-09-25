@@ -32,7 +32,7 @@ The upgraded [Turn and Go 360](safety1st-turn-and-go-360.md) — same SafetySwiv
 | Harness | 10-position headrest + harness; **SecureTech magnetic chest clip**. Listing never states 5-point or no-rethread explicitly |
 | Dimensions | 29" H × **22" W** × 19" D · ~29–29.5" deep rear-facing |
 | Weight | 28.66 lb |
-| Life | Not published on listing |
+| Life | **10 years** † — inherited from the [base Turn and Go 360](safety1st-turn-and-go-360.md) |
 | Fabric | Machine washable and dryer safe; antibacterial treated |
 | Warranty | 1 year limited |
 
@@ -92,6 +92,8 @@ Complaints:
 - "HEAVY and bulky"; poor fit for a 4-month-old.
 
 Dorel replied publicly to several of these.
+
+**CSFTL reviewed this platform and was unfavourable** — **"heavy, awkward to install, short-lived, and on the expensive side,"** with no scenario they could identify to justify it. Key findings: 8.5" lowest harness slot, **15" top harness slot** (roughly a 4-year-old's fit), booster belt guide too short to be practical, required wedge pillow easy to overlook, tippy in booster mode, 30 lb with no good handhold, no FAA approval.
 
 ## Pros
 

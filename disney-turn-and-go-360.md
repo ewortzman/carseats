@@ -30,7 +30,7 @@ A rebadged [Safety 1st Turn and Go 360](safety1st-turn-and-go-360.md) in Disney 
 | Install | LATCH or belt; SecureTech red-to-green base tension indicators, belt lock-off arm, top-tether indicator |
 | Harness | 10-position headrest + harness; SecureTech magnetic chest clip |
 | Ratings | **1.0★ from 1 review** |
-| Life | Not published on listing |
+| Life | **10 years** † — inherited from the Safety 1st [Turn and Go 360](safety1st-turn-and-go-360.md) |
 | Warranty | 1 year limited |
 
 ## Safety
@@ -69,6 +69,8 @@ That second report is the same failure class that put the Evenflo Revolve360 lin
 Platform context: the [Safety 1st Turn and Go 360](safety1st-turn-and-go-360.md) sits at **3.74★ across 188 ratings** and the [DLX](safety1st-turn-and-go-360-dlx.md) at 3.94★ with **66% would recommend** and 8% one-star. The dominant complaint on both: **"The swivel lever is almost impossible to reach in the rear facing position."** Also reported: a chest clip that "doesn't always release," and a seat that "can lift/separate slightly from the base."
 
 Assume this trim behaves identically.
+
+**CSFTL reviewed this platform and was unfavourable** — **"heavy, awkward to install, short-lived, and on the expensive side,"** with no scenario they could identify to justify it. 8.5" lowest harness slot, **15" top harness slot** (~age 4), impractically short booster belt guide, tippy in booster mode, 30 lb, no FAA approval. You would be paying a $70 Disney premium on top of that.
 
 ## Pros
 

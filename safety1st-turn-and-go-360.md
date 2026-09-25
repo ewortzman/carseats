@@ -29,7 +29,7 @@
 | Base | Non-detachable, cord-attached — base and seat must be used together; not a carrier |
 | Install | LATCH or belt; **SecureTech red-to-green base tension indicators**, built-in vehicle belt lock-off arm, visual top-tether indicator |
 | Harness | 10-position headrest + harness; **SecureTech magnetic chest clip** |
-| Life | Not published on listing |
+| Life | **10 years** from manufacture (CSFTL). Label on the bottom of the seat's shell |
 | Warranty | 1 year limited |
 
 ## Safety
@@ -80,6 +80,10 @@ Complaints:
 - "HEAVY and bulky"; poor fit for a 4-month-old.
 
 Dorel replies publicly to several of these.
+
+**CSFTL: unfavourable — they could not identify a scenario justifying this seat.** Their summary calls it **"heavy, awkward to install, short-lived, and on the expensive side,"** with the sole upside being a lower price than many rotating seats. Specific findings: an unusually **high 8.5" lowest harness slot** (poor for small babies), a **low 15" top harness position** — roughly a 4-year-old's fit — a booster belt guide too short to be practical, a quirky two-piece install, a required wedge pillow that is easy to overlook, **tippiness in booster mode**, and no airplane certification. At **30 lb** they warn "lugging it out to the car is no small feat," with smooth sides giving no handhold.
+
+The 15" top harness slot is the killer: most seats here reach 17–19". This one is a rotating seat your child outgrows in harness mode around age 4.
 
 ## Pros
 

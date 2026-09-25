@@ -31,7 +31,7 @@
 | Gold extras | SensorSafe (SS) chest clip and GentleGuide (GG) — the reason for the price premium |
 | Dimensions | ~19.8" W × 21" D; 31" deep rear-facing fully reclined |
 | Weight | ~30 lb |
-| Life | 10 years |
+| Life | **10 years** † — inherited from the [Revolve360](evenflo-revolve360-slim.md) platform |
 | Warranty | **90 days** |
 
 ## Safety

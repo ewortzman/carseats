@@ -86,14 +86,18 @@ Where a seat had no rating of its own, the nearest rated relative was reported *
 
 The CPST community's reference site. Full teardowns with newborn/preemie doll fit testing, harness slot measurements, belt-path assessments, and recommended-list status.
 
-Reviews used:
-- [Chicco Fit360 Rotating Convertible Car Seat Review](https://csftl.org/chicco-fit360-rotating-convertible-car-seat-review/)
-- [Graco Turn2Me Multimode Car Seat Review](https://csftl.org/graco-turn2me-multimode-car-seat-review/) — including the **2024 update that removed it from the recommended list**
-- [Evenflo Revolve360 Review](https://csftl.org/evenflo-revolve360-review/)
-- [Graco 4Ever DLX Multimode Car Seat Review](https://csftl.org/graco-4ever-dlx-multimode-car-seat-review/)
+Reviews used — 15 teardowns covering 20 of the 51 seats (platform siblings share a review):
+- [Chicco Fit360](https://csftl.org/chicco-fit360-rotating-convertible-car-seat-review/) · [Chicco OneFit](https://csftl.org/chicco-onefit-all-in-one-review/)
+- [Graco Turn2Me](https://csftl.org/graco-turn2me-multimode-car-seat-review/) — incl. the **2024 update removing it from the recommended list** · [Graco 4Ever DLX](https://csftl.org/graco-4ever-dlx-multimode-car-seat-review/) · [Graco SlimFit3 LX](https://csftl.org/graco-slimfit3-lx-review/) · [Graco TriRide](https://csftl.org/graco-triride-multimode-car-seat-review/)
+- [Britax Poplar](https://csftl.org/britax-poplar-convertible-car-seat-review/) · [Britax One4Life Slim](https://csftl.org/britax-one4life-slim-multimode-car-seat-review/)
+- [Safety 1st EverSlim / SlimRide](https://csftl.org/safety-1st-everslim-and-slimride-multimode-car-seat-review/) · [Safety 1st Trimate](https://csftl.org/safety-1st-trimate-multimode-car-seat-review/) · [Safety 1st Turn and Go](https://csftl.org/safety-1st-turn-and-go-multimode-car-seat-review/) · [Safety 1st Grow and Go Extend n Ride](https://csftl.org/safety-1st-grow-and-go-extend-n-ride-multimode-car-seat-review/)
+- [Maxi-Cosi Pria Max](https://csftl.org/maxi-cosi-pria-max-3-in-1-multimode-car-seat-review/) · [UPPAbaby Rove](https://csftl.org/uppababy-rove-convertible-car-seat-review/) · [Baby Jogger City Turn](https://csftl.org/baby-jogger-city-turn-convertible-car-seat-review/)
+- [Baby Trend Cover Me](https://csftl.org/baby-trend-cover-me-multimode-car-seat-review/) · [Baby Trend Trooper](https://csftl.org/baby-trend-trooper-convertible-car-seat-review/)
+- [Evenflo Revolve360](https://csftl.org/evenflo-revolve360-review/)
 - [Rotating Car Seats](https://csftl.org/rotating-car-seats/) — cross-category comparison chart
+- [Car Seats have an expiration date!](https://csftl.org/car-seats-have-an-expiration-date/) and [Car Seats: Why do they Expire?](https://csftl.org/expired-seats/) — expiry reference; CSFTL gives the industry range as **4–12 years** and notes lifespan "is often listed in the manual as well"
 
-**Evidence gap: only 8 of 51 seats have a CSFTL teardown.** 43 have no independent expert install assessment. Flagged per seat.
+**20 of 51 seats have a CSFTL teardown**; 31 do not, and those have no independent expert install assessment. Flagged per seat. CSFTL reviews were located via their WordPress search API (`csftl.org/wp-json/wp/v2/search?search=<model>`), which surfaced substantially more coverage than site search did.
 
 CSFTL earns affiliate revenue via an Amazon storefront (disclosed on their site).
 
@@ -110,7 +114,17 @@ Two caveats applied throughout:
 
 Reachability from this environment: chiccousa.com, evenflo.com, britax.com, csftl.org and target.com returned 200. gracobaby.com and joiebaby.com returned 403. nhtsa.gov's web front end returned 403 (Akamai) while its API was fully accessible. Google, Bing, DuckDuckGo and Mojeek were unusable or bot-challenged.
 
-### 5. Regulatory context
+### 5. Seat expiration
+
+**Every car seat has a manufacturer-stated expiration; only 9 of the 51 Target listings publish it.** Expiry figures in these notes come from CSFTL teardowns (which read it off the seat label and the manual) and from the listings that state it. 24 seats are verified, 13 inherit a verified platform sibling's figure, and 14 could not be verified from available sources — those are marked "label + manual" rather than "not stated," since the manufacturer does specify it.
+
+Verified distribution: **21 of 24 are 10 years.** Exceptions: [Baby Trend Trooper Slim](babytrend-trooper-slim.md) 7 years, [Baby Trend Cover Me](babytrend-cover-me.md) 7 years harnessed / 9 years in booster, [Chicco Fit360](chicco-fit360-cleartex.md) 8 years.
+
+Manufacturer FAQ pages were not reachable from this environment (chiccousa.com FAQ covers ordering only; britax.com and evenflo.com expiry URLs returned 404; joiebaby.com returned 403), so brand-level policy pages could not be used as a cross-check.
+
+**Age caps can be shorter than expiry** and override it: [Chicco Fit360](chicco-fit360-cleartex.md)/[Zip](chicco-fit360-zip.md) 6 years, [Evenflo Revolve360 Slim](evenflo-revolve360-slim.md) 6 years, [Britax Galaxy 360](britax-galaxy-360-slim.md) 6 years. Cost-per-year uses the shorter figure.
+
+### 6. Regulatory context
 
 - **FMVSS 213** — the federal child restraint standard (frontal crash, labelling, installation means, structural integrity).
 - **FMVSS 213a** — side-impact standard, mandatory for seats manufactured after **June 30, 2025**. Covers children to 40 lb / 43" in a 5-point harness. Britax discloses this scope limit explicitly; most brands do not.
@@ -123,7 +137,7 @@ Reachability from this environment: chiccousa.com, evenflo.com, britax.com, csft
 - **Consumer Reports crash-test ratings** — paywalled. CR runs a more severe crash protocol and rates seats independently; worth a month's subscription before a $300+ purchase.
 - **IIHS booster ratings** — IIHS rates boosters for belt fit but does not rate harnessed convertibles.
 - **NHTSA ease-of-use for 35 of the 51 seats** — does not exist.
-- **Independent expert teardowns for 43 of 51 seats.**
+- **Independent expert teardowns for 31 of 51 seats.**
 - **Target specs for a handful of seats** (Maxi-Cosi Andi / Kani / Pria Max, both Peg Perego seats) — flagged in those files as unverified.
 
 ## How the 1–5 scores were assigned

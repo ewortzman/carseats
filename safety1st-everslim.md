@@ -30,7 +30,7 @@ A narrow all-in-one to 100 lb with a clean complaint record — and, like every 
 | Lower anchor limits | 40 lb rear-facing, 45 lb forward-facing |
 | Harness | 5-pt no-rethread |
 | Dimensions | Slim shell — Safety 1st markets ~17"-class width |
-| Life | Not published on listing |
+| Life | **10 years** from manufacture (CSFTL; manual p. 75). Label on the bottom of the main shell and the bottom of the backless booster |
 | Warranty | 1 year limited |
 
 ## Safety
@@ -68,6 +68,10 @@ Clean across three matched records (Safety 1st EverSlim, Safety 1st SlimRide, Di
 4.20★ from 145 ratings. Target does not publish full attribute subscores on this listing.
 
 Mid-pack for the category and below every Graco, Chicco and Joie convertible here.
+
+**CSFTL: favourable — "a winner of a seat!"** They were "pleasantly surprised," found it "overall fairly easy to use" and well suited to tight spaces, and describe it as a well-featured, sensibly priced, narrow seat that installs "without too much fuss." Their measurements: **17" at the widest point** (Safety 1st markets 16.75"), making it "a solid option in the world of 3 seats across"; **22 lb** harnessed or as a highback booster, **6 lb** as a backless booster. They note it is not especially long-lasting by child height but consider that acceptable given the four modes.
+
+That verdict is worth weighing against NHTSA's 2/5 rear-facing rating — the two disagree, and they are measuring different things. NHTSA scored the install *features* and labelling; CSFTL actually installed it.
 
 ## Pros
 

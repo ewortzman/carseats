@@ -32,7 +32,7 @@
 | Side impact | SIP pods; side bolsters required to 40 lb |
 | Dimensions | 19.69" H × **21" W** × 19.69" D |
 | Weight | 28.7 lb |
-| Life | Not published on listing |
+| Life | Not published on the listing and no CSFTL teardown exists — **read it off the seat label / manual** |
 | Warranty | 1 year limited |
 
 ## Safety

@@ -28,7 +28,7 @@ A rebadged [Safety 1st Ellaris](safety1st-ellaris.md) in Disney fabric at **$30 
 | Install | LATCH or belt |
 | Harness | 5-pt |
 | Ratings | **5.0★ from 10 ratings** |
-| Life | Not published on listing |
+| Life | Not published and no CSFTL teardown exists — **read it off the seat label / manual** |
 | Warranty | 1 year limited |
 
 ## Safety

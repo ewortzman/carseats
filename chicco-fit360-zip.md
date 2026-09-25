@@ -31,7 +31,7 @@ The [Fit360](chicco-fit360-cleartex.md) with a **full-length zip-off seat pad** 
 | Harness | Quick-Secure system — **magnetic chest clip**, magnetic harness holders, flex-forward crotch buckle, 15-position no-rethread |
 | Dimensions | 25.75" H × 18.25" W × 20" D |
 | Weight | 31.25 lb |
-| Life | Not stated on this listing; standard Fit360 is **8 years** |
+| Life | **8 years** † — inherited from the [Fit360](chicco-fit360-cleartex.md). Plus a **6-year age cap**, so 6 years is the real limit |
 | Aircraft | FAA approved |
 | Fabric | ClearTex, **GREENGUARD Gold** |
 | What Zip adds | **Zip & Wash pad** — full-length zipper removes the entire pad in one piece; plus the base-mounted crash-tested convex Fit360 Mirror ($39.99 separately) |

@@ -28,7 +28,7 @@ The original Extend2Fit — built around an extending leg-room panel for long re
 | Rotation | None |
 | Install | LATCH or belt; InRight LATCH |
 | Harness | 5-pt no-rethread Simply Safe Adjust |
-| Life | 10 years of use |
+| Life | **10 years** from manufacture |
 | Warranty | 1 year limited |
 
 ## Safety

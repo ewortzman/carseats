@@ -30,7 +30,7 @@
 | Lower anchor limits | 40 lb rear-facing, 50 lb forward-facing |
 | Harness | 5-pt no-rethread |
 | Fabric | Pure Cosi — flame-retardant-free |
-| Life | Not published on listing |
+| Life | **10 years** † — inherited from the [Pria Max](maxicosi-pria-max.md), same platform |
 | Warranty | 1 year limited |
 
 ## Safety
@@ -79,6 +79,8 @@ Representative filings:
 4.06★ from 514 ratings — below every Graco, Chicco and Joie convertible in this comparison. Target does not publish full attribute subscores on this listing.
 
 514 ratings is a meaningful sample, so 4.06 reflects broad mediocrity rather than a few bad units.
+
+**CSFTL reviewed the [Pria Max](maxicosi-pria-max.md) on this platform** — positive with reservations: plush, good newborn and preemie fit, install "far easier than on the previous model," but **limited forward-facing longevity** (their 4-year-old was near the top harness setting while 6" under the height limit), short top-tether webbing, and a chest clip that stores separately in booster mode.
 
 ## Pros
 

@@ -31,7 +31,7 @@ The roomiest Chicco convertible here — built for tall and heavy children, with
 | Harness | 5-pt, 10-position headrest adjusting with harness; **magnetic quick-secure chest clip**; flex-forward crotch buckle |
 | Dimensions | 26.5" H × 19.5" W × 23.25" D |
 | Weight | 27 lb |
-| Life | Not published on listing |
+| Life | **10 years** † — inherited from the [OneFit](chicco-onefit-lx.md), same platform |
 | Fabric | ClearTex flame-retardant-free, **GREENGUARD Gold Certified** |
 | Warranty | 1 year limited |
 
@@ -63,6 +63,8 @@ Clean — but on only 49 ratings, so this is close to no evidence either way. Tr
 Praise: roomy for tall and heavier babies, generous rear-facing legroom, plush padding, soft fabric, and the magnetic clip — one parent called it "a game changer." Several found the install straightforward.
 
 Complaints: stiff harness that is "really hard" to adjust; a magnetic clip that "keeps sticking"; bulk that barely fit a Ford Explorer; difficult belt install with a bubble level that "never stays in place"; no zip-off cover; harness adjuster strap slipping under the fabric.
+
+**CSFTL reviewed the [OneFit](chicco-onefit-lx.md) on this platform favourably** — it "impressed us in many ways," and unusually for a multimode seat it delivers a genuine ten-year life because the booster belt guide sits high enough for bigger children. Lockoffs, SuperCinch LATCH and the no-rethread harness "make installing and using the child restraint a breeze." Their OneFit measurements: 19.25" at the shoulders, 21.5" with cupholders extended, 24 lb.
 
 ## Pros
 

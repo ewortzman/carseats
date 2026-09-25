@@ -30,7 +30,7 @@
 | Lower anchor limits | **30 lb rear-facing** (NHTSA records 37 lb max), 40 lb forward-facing — low, so you move to a belt install early |
 | Tether | **Required forward-facing** |
 | Harness | 5-pt no-rethread |
-| Life | Not published. Target suggested age **0–4 years** |
+| Life | **10 years** from manufacture (CSFTL — "a very robust 10 year expiration"). Label on the back of the shell, by the manual storage compartment |
 | Warranty | 1 year limited |
 | Dimensions | 32.5" H × **23.5" W** × 23" D — **widest seat in this comparison** |
 | Weight | **19 lb** — lightest rotating seat here |
@@ -77,6 +77,10 @@ Baby Jogger is a Newell brand (same parent as Graco).
 4.46★ from 135 ratings (a second colourway listing shows 4.41 on 118). Target does not publish attribute subscores on this listing.
 
 CSFTL has reviewed this seat and includes it in their rotating-seat comparison chart. Their note on the platform: the seat-belt path sits high enough that the belt can interfere with a rear-facing child's legs — a point on which they rate [Graco Turn2Me](graco-turn2me.md) as an improvement.
+
+**CSFTL: positive with reservations, and they confirm the rotation limitation.** The seat "has a lot to offer" — well padded, nice features, worked in their three-across test alongside slim seats — and "rotating to load the child is the number one feature, and that's something the City Turn does really well." But the reviewer was **"disappointed that it only rotates in one mode,"** and warns there is **"definitely a learning curve with this seat,"** strongly advising you read the manual before installing. Other caveats: labels peeling off the test seat, a nearly invisible recline position 1 line, position 2 missing from the manual, dolls' feet catching under the seat belt during rotation, FAA approval forward-facing only, and unverifiable in-house "True Test Plus" standards.
+
+Their measurements correct Target's: **19" at the widest point** (the cupholder, which protrudes and is required) and **28 lb** — not the 23.5" / 19 lb the listing states. Front-to-back is 29" headrest retracted, 32" extended.
 
 ## Pros
 

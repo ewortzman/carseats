@@ -31,7 +31,7 @@
 | Harness | 5-pt no-rethread Simply Safe Adjust, 10 positions; harness storage pockets |
 | Dimensions | 24.5" H × **16.7" W** × 20.7" D — fits 3 across |
 | Weight | **19.2 lb** — lightest convertible in this comparison |
-| Life | ~10 years of use (no expiry printed on listing) |
+| Life | **10 years** from manufacture (CSFTL). Expiry stamped into the bottom of the base; manufacture-date label on the back of the seat behind the child's right shoulder |
 | Aircraft | FAA approved with internal harness |
 | Cover | Rapid Remove, off in 60 seconds |
 | Warranty | 1 year limited |
@@ -84,6 +84,8 @@ Complaints:
 - Some difficulty adjusting straps.
 
 Target flags that many five-star reviews are promotion-collected and syndicated from gracobaby.com.
+
+**CSFTL: on their Recommended Seats list.** They found it "definitely does what it's marketed to do: accommodates 3 car seats across," with a roomy interior despite the narrow shell, and said they "can't find a single thing that was overlooked." Their measurements: **16.7" at the widest point** (child's shoulders), 11.5" base, **18 lb**. Minor caveats: pulling the lower anchors out of storage is fiddly, and a booster rider may struggle to reach the buckle with another seat alongside.
 
 ## Pros
 

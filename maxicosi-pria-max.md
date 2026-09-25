@@ -29,7 +29,7 @@ The larger Pria — **4.08★ across 383 ratings**, matching the [Pria Pure Cosi
 | Install | LATCH or belt |
 | Lower anchor limits | 40 lb rear-facing, 50 lb forward-facing (platform) |
 | Harness | 5-pt no-rethread |
-| Life | Not published on listing |
+| Life | **10 years** from manufacture (CSFTL; manual p. 71). DOM label on the side of the shell near the child's left knee |
 | Warranty | 1 year limited |
 | Data note | Target listing specs not fully retrieved in this pass — confirm width, weight and expiry on the product page |
 
@@ -74,6 +74,8 @@ Neither covers the current Pria Max. Family complaint themes include **harness w
 4.08★ from 383 ratings. Target publishes no attribute subscores on this listing.
 
 383 ratings makes 4.08 a meaningful figure, and it is low: below [Graco 4Ever DLX](graco-4ever-dlx.md) (4.78/6,173), [Chicco Fit3x](chicco-fit3x.md) (4.62/127), [Joie Saffron SI](joie-saffron-si.md) (4.49/147) and [Graco SlimFit3 LX](graco-slimfit3-lx.md) (4.74/1,363) — all of which cost less.
+
+**CSFTL: positive, with reservations.** They call it "a plush seat that fits our newborn and preemie dolls well" and say installation is "far easier than on the previous model," crediting Maxi-Cosi for details like harness covers and small-infant positioning. Their measurements: **20" at the widest point** (cupholders), **18 lb**. Downsides: notably short top-tether webbing, a chest clip that must be stored separately in booster mode, and **limited forward-facing longevity** — their 4-year-old was already near the top harness setting despite being 6" under the height limit, so another harnessed seat would likely be needed. The wide base also made self-buckling hard in booster mode in one test vehicle.
 
 ## Pros
 

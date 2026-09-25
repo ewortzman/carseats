@@ -30,7 +30,7 @@ The previous-generation SlimFit, still sold alongside the [SlimFit3 LX](graco-sl
 | Lower anchor limits | 40 lb rear-facing, 47 lb forward-facing |
 | Harness | 5-pt no-rethread Simply Safe Adjust |
 | Dimensions | ~17" W class (marketed 3-across) |
-| Life | 10 years of use |
+| Life | **10 years** from manufacture (Graco platform) |
 | Warranty | 1 year limited |
 
 ## Safety

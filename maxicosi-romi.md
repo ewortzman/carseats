@@ -29,7 +29,7 @@
 | Install | LATCH or belt |
 | Lower anchor limits | 40 lb both directions |
 | Harness | 5-pt no-rethread |
-| Life | Not published on listing |
+| Life | Not published on the listing and no CSFTL teardown exists — **read it off the seat label / manual.** Moot in practice: forward-facing capacity runs out at 40 lb / 43", roughly age 4 |
 | Warranty | 1 year limited |
 
 ## Safety

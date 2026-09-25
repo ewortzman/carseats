@@ -28,7 +28,7 @@ Italian-made premium convertible at $349.99, **4.67★ from 6 reviews** — effe
 | Install | LATCH or belt |
 | Harness | No-rethread |
 | Ratings | **4.67★ from 6 reviews** |
-| Life | Not published on listing |
+| Life | Not published on the listing and no CSFTL teardown of this model exists — **read it off the seat label / manual** |
 | Warranty | 1 year limited |
 | Data note | **Target listing specs were not retrieved in this research pass.** Confirm per-mode limits, width, weight, expiry and 213a status on the product page before buying |
 

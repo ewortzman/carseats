@@ -29,7 +29,7 @@
 | Harness | 5-pt |
 | Price | **Target shows "See price in cart"** |
 | Ratings | **4.0★ from 1 review** |
-| Life | Not published on listing |
+| Life | Not published on the listing and no CSFTL teardown of this model exists — **read it off the seat label / manual** |
 | Warranty | 1 year limited |
 | Data note | **Target listing specs were not retrieved in this research pass.** Confirm limits, width, weight, expiry and 213a status before buying |
 

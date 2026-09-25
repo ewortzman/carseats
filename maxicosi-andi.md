@@ -28,7 +28,7 @@ Maxi-Cosi's premium convertible at $499.99 — **4.70★ from 185 ratings, the b
 | Install | LATCH or belt |
 | Harness | No-rethread |
 | NHTSA record name | Listed in the federal database as **"ANDI 360"** — 0 complaints |
-| Life | Not published on listing |
+| Life | Not published on the listing and no CSFTL teardown exists — **read it off the seat label / manual** |
 | Warranty | 1 year limited |
 | Data note | **Target listing specs were not retrieved in this research pass** — per-mode limits, width, weight and expiry should be confirmed on the product page before buying |
 

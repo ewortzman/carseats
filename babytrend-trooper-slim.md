@@ -32,7 +32,7 @@
 | Dimensions | Slim shell |
 | Weight | ~25 lb per listing title |
 | Price | **Target shows "See price in cart"** |
-| Life | Not published on listing |
+| Life | **7 years** — "December of the 7th year after the date of manufacture" (CSFTL). **Shortest expiry in this comparison.** DOM label and expiry stamp on the underside beside the crotch buckle |
 | Warranty | 1 year limited |
 
 ## Safety
@@ -74,6 +74,8 @@ The predecessor Trooper record is also clean (0 complaints). Baby Trend's record
 Target does not publish attribute subscores on this listing, and the price displays only in cart.
 
 The gap between 4.76★ from owners and 3/5 from NHTSA is the familiar pattern: owners rate comfort, looks and perceived ease; NHTSA measures whether the hardware and labelling make a correct install likely.
+
+**CSFTL: favourable.** They highlight how unusual it is to get a light, slim seat that fits preemies through a typical 7-year-old for under $100, calling it **"an excellent option for many situations, especially tight 3 across setups"** and suggesting it would suit air travel too. Their measurements: **17.5" at the widest point** (with cupholder attached, at the shoulders) and **10 lb** — by far the lightest seat in this comparison. Drawbacks: required harness covers poked their younger testers' necks; **the seat tends to tip toward the buckle in seat-belt installs because it is so light**; harness-slot and crotch-buckle rules are complicated enough to require the manual; the continuous harness complicates evening out the low-birthweight routing; and the manual gives three seemingly conflicting statements about seat belt vs. LATCH installation.
 
 ## Pros
 

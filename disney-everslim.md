@@ -31,7 +31,7 @@ A rebadged [Safety 1st EverSlim](safety1st-everslim.md) in Disney fabric at **$7
 | Harness | 5-pt no-rethread |
 | Dimensions | Slim shell |
 | Ratings | **4.0★ from 1 review** |
-| Life | Not published on listing |
+| Life | **10 years** † — inherited from the Safety 1st [EverSlim](safety1st-everslim.md) |
 | Warranty | 1 year limited |
 
 ## Safety
@@ -71,6 +71,8 @@ Clean across the matched Disney Baby EverSlim, Safety 1st EverSlim and Safety 1s
 **4.0★ from 1 review.** No usable owner evidence.
 
 The Safety 1st original sits at 4.20★ from 145 ratings — still below every Graco, Chicco and Joie convertible in this comparison.
+
+**CSFTL reviewed the identical Safety 1st [EverSlim / SlimRide](safety1st-everslim.md) favourably — "a winner of a seat!"** Their measurements: 17" at the widest point, 22 lb harnessed / 6 lb backless. Well suited to three-across. That verdict applies to this seat too — you are paying $76 for the Disney print, not for different hardware.
 
 ## Pros
 

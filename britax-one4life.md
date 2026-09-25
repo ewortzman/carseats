@@ -33,7 +33,7 @@ Britax's flagship all-in-one — four modes, 5–120 lb, ClickTight, **FMVSS 213
 | Anti-rebound | Not listed; Britax declined to confirm in Q&A |
 | Dimensions | 25" H × 19.5" W × 20.5" D |
 | Weight | 30 lb |
-| Life | 10-year seat, suggested age 0–12. No expiry date published |
+| Life | **10 years** † — inherited from the [One4Life Slim](britax-one4life-slim.md), same platform |
 | Fabric | SafeWash, machine washable |
 | Warranty | 1 year limited |
 
@@ -98,6 +98,8 @@ Complaints:
 - ClickTight jamming and lower-anchor tightening problems after long use.
 - Replacement SafeWash covers out of stock; unresolved defect claims.
 - Rattling when unoccupied; buckle webbing fraying at two years.
+
+**CSFTL reviewed the [One4Life Slim](britax-one4life-slim.md) favourably** — Britax "took the best parts of the One4Life and created an even better version." Their Slim measurements: 17" widest, 14.5" base, 27.5 lb with inserts. Note their review sample was affected by recall 24C001000.
 
 ## Pros
 

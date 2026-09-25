@@ -32,7 +32,7 @@ The [Poplar](britax-poplar.md) with upgraded trim — same 17" ClickTight platfo
 | Anti-rebound | Not included — add-on stability bar |
 | Dimensions | **17" W** SpaceSaver — marketed 3-across |
 | Weight | ~27 lb |
-| Life | Not published on listing |
+| Life | **10 years** † — inherited from the [Poplar](britax-poplar.md), same platform |
 | Fabric | Flame-retardant-free; premium trim over the base Poplar |
 | Warranty | 1 year limited |
 
@@ -74,6 +74,8 @@ Britax brand-wide: **972 complaints, 41 injuries, 22 recalls, 6 investigations**
 Best-rated Britax in this comparison alongside the base [Poplar](britax-poplar.md), and far ahead of [Galaxy 360](britax-galaxy-360-slim.md) (4.11★, 29% recommend) and [One4Life](britax-one4life.md) (4.03★, 28% recommend).
 
 Expect the Poplar ownership profile: excellent ClickTight install, genuinely slim, painful cover washing with non-removable strap pads, fiddly squeeze-style LATCH connectors.
+
+**CSFTL reviewed the [base Poplar](britax-poplar.md) favourably** — "a solid addition to Britax's lineup" that "really shines in rear facing mode." Carry over one warning: **vehicle headrests fouled the forward-facing install in every car CSFTL tested, so they do not recommend the Poplar platform for vehicles with non-removable headrests.** Their measurements: 17" at the headrest, 20" with cupholders installed, 26 lb.
 
 ## Pros
 

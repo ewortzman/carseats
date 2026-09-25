@@ -29,7 +29,7 @@
 | Install | LATCH or belt |
 | Lower anchor limits | 40 lb rear-facing, 55 lb forward-facing |
 | Harness | 5-pt no-rethread |
-| Life | Typically 8–10 years — not published on this listing |
+| Life | **10 years** † — inherited from the [Grow and Go Extend n Ride](safety1st-grow-and-go-extend-n-ride-lx.md), same platform |
 | Warranty | 1 year limited |
 
 ## Safety
